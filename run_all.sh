@@ -1,0 +1,3 @@
+python retrieve_netuid_data.py
+python norm_data.py
+python filter_potential_sn.py
