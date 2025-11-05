@@ -9,6 +9,7 @@ from typing import List
 
 from tqdm import tqdm
 
+black_list = [102]
 
 data_path = Path("./netuid_data_norm")
 register_fee_threshold = 0.2
@@ -64,7 +65,8 @@ def filter_subnets(
         incentives = extract_incentives(subnet.get("uids", []))
         if not has_even_distribution(incentives, min_ids=min_ids, tolerance=tolerance):
             continue
-
+        if subnet.get("netuid") in black_list:
+            continue
         results.append(
             {
                 "netuid": subnet.get("netuid"),
