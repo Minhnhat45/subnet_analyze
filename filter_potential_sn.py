@@ -9,7 +9,7 @@ from typing import List
 
 from tqdm import tqdm
 
-black_list = [102]
+black_list = [102, 83]
 
 data_path = Path("./netuid_data_norm")
 register_fee_threshold = 0.2
@@ -103,8 +103,8 @@ def main() -> None:
     )
     for subnet in matching_subnets:
         print(
-            f"- netuid {subnet['netuid']}: {subnet.get('name')} | "
-            f"registration_cost={subnet['registration_cost']} | "
+            f"- netuid {subnet['netuid']}: {subnet.get('name')} \t\t\t | "
+            f"registration_cost={subnet['registration_cost']} \t\t\t | "
             f"incentivized IDs={subnet['incentivized_count']}"
         )
 
