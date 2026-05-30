@@ -1,24 +1,35 @@
 import json
-import tqdm
-import pdb
-import ast
-import os
-norm_path = "./netuid_data_norm/"
-if not os.path.exists(norm_path):
-    os.makedirs(norm_path)
+from pathlib import Path
 
-for i in range(1, 128):
-    with open(f"./netuid_data/{i}.json", "r") as f:
-        out_data = f.read().splitlines()
-        if out_data:
-            out_string = "".join(out_data)
-            out_string = out_string.replace("\n", "")
-            output = ast.literal_eval(out_string)
-            print(f"✅ Done process {i}")
-            f.close()
-            with open(f"{norm_path}{i}.json", "w") as f_out:
-                json.dump(output, f_out, indent=4)
-        else:
-            print(f"🛑 Fail process {i}")
-            pass
-    
+
+source_dir = Path("./netuid_data")
+norm_dir = Path("./netuid_data_norm")
+norm_dir.mkdir(parents=True, exist_ok=True)
+
+
+def numeric_sort_key(path: Path) -> int:
+    try:
+        return int(path.stem)
+    except ValueError:
+        return 10**9
+
+
+for src_path in sorted(source_dir.glob("*.json"), key=numeric_sort_key):
+    raw_text = src_path.read_text(encoding="utf-8")
+    if not raw_text.strip():
+        print(f"🛑 Empty file: {src_path.name}")
+        continue
+
+    # Input files contain literal line breaks inside quoted values.
+    # Joining lines normalizes them into valid JSON before parsing.
+    normalized_text = "".join(raw_text.splitlines())
+
+    try:
+        output = json.loads(normalized_text)
+    except json.JSONDecodeError as exc:
+        print(f"🛑 Parse failed for {src_path.name}: {exc}")
+        continue
+
+    out_path = norm_dir / src_path.name
+    out_path.write_text(json.dumps(output, indent=4), encoding="utf-8")
+    print(f"✅ Done process {src_path.name}")

@@ -12,9 +12,9 @@ from tqdm import tqdm
 black_list = [102, 83]
 
 data_path = Path("./netuid_data_norm")
-register_fee_threshold = 0.2
+register_fee_threshold = 0.5
 min_incentivized_ids = 3
-distribution_tolerance = 0.15  # max allowed spread between incentive shares
+distribution_tolerance = 0.3  # max allowed spread between incentive shares
 
 
 def load_json(file_path: Path) -> dict:
@@ -46,6 +46,18 @@ def has_even_distribution(
     shares = [value / total_incentive for value in incentives]
     return max(shares) - min(shares) <= tolerance
 
+def has_speaded_incentive(
+    incentives: List[float],
+    min_ids: int,
+) -> bool:
+    count = 0
+    
+    for value in incentives:
+        if round(value, 3) > 0:
+            count +=1
+    
+    return count > min_ids
+
 
 def filter_subnets(
     data_dir: Path,
@@ -64,6 +76,9 @@ def filter_subnets(
 
         incentives = extract_incentives(subnet.get("uids", []))
         if not has_even_distribution(incentives, min_ids=min_ids, tolerance=tolerance):
+            continue
+        
+        if not has_speaded_incentive(incentives, min_ids=20):
             continue
         if subnet.get("netuid") in black_list:
             continue
