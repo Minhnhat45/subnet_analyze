@@ -31,7 +31,7 @@ def is_empty_payload(s: str) -> bool:
 
 def run_btcli_once(netuid: int, timeout: float) -> subprocess.CompletedProcess:
     return subprocess.run(
-        ["btcli", "s", "show", "--json-out", "--netuid", str(netuid)],
+        ["btcli", "s", "show", "--json-out", "--netuid", str(netuid), "--no-prompt"],
         capture_output=True,
         text=True,
         check=False,
