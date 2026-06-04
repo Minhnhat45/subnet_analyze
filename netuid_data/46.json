@@ -1,1292 +1,375 @@
-{"netuid": 46, "mechanism_id": 0, "mechanism_count": 1, "name": ": Zipcode", "owner": 
-"5Ft9E2ovN52AVMczVA3713uXmmBPczvUboB4YQpupu3aEYg7", "owner_identity": "Owner46", "rate": 
-0.012024272, "emission": 0.0, "tao_pool": 15269.500229025, "alpha_pool": 1239492.962853896, 
-"tempo": {"block_since_last_step": 229, "tempo": 360}, "registration_cost": 0.1, "uids": 
-[{"uid": 238, "stake": 1383079.321245059, "alpha_stake": 1125615.584507781, "tao_stake": 
-257463.736830527, "dividends": 0.36212710765239947, "incentive": 1.0, "locked_perpetual_rao": 
-27182726775673, "locked_decaying_rao": 145496032836554, "conviction_alpha_eq_rao": 
-172678759612227, "emissions": 201.611108312, "hotkey": 
-"5CDnZ6oeCrXKoL2VJQuQFxSfr49yQWz2DvdaYx47hr9QdM6D", "coldkey": 
-"5Ft9E2ovN52AVMczVA3713uXmmBPczvUboB4YQpupu3aEYg7", "identity": "[dark_sea_green3]Owner46 
-(*Owner)[/dark_sea_green3]", "claim_type": "Keep", "claim_type_subnets": null}, {"uid": 246, 
-"stake": 953752.967559232, "alpha_stake": 729346.10667906, "tao_stake": 224406.860961448, 
-"dividends": 0.2469214923323415, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 36.548653165, "hotkey": 
-"5E2LP6EnZ54m3wS8s1yPvD5c3xo71kQroBw7aUVK32TKeZ5u", "coldkey": 
-"5GsbTgfvgCH4xdqSkiPb7EaBBFLHjWH5vfEALhJaewSFpZX9", "identity": "tao.bot", "claim_type": "Swap",
-"claim_type_subnets": null}, {"uid": 104, "stake": 758765.438348399, "alpha_stake": 
-590243.941650734, "tao_stake": 168521.4967587, "dividends": 0.19732967116807812, "incentive": 
-0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, 
-"emissions": 29.207463895, "hotkey": "5CvXsTmqgbHDFWS73vmbY9J2wMXYTPFiAgKypaXBydAQMvnS", 
-"coldkey": "5CWzmvA17MAMQ9mnAecLxFXS2N8846rz6T7m4QNHyVtJVq4j", "identity": "TAO.com", 
-"claim_type": "Swap", "claim_type_subnets": null}, {"uid": 220, "stake": 308933.36124182, 
-"alpha_stake": 190676.207067862, "tao_stake": 118257.154216788, "dividends": 
-0.08035400930800336, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 11.893451787, "hotkey": 
-"5D9gz4m6FJRAyiE2Ud4u2RHDffZaoKAQWeE4javYZBmXT1Zp", "coldkey": 
-"5E9fVY1jexCNVMjd2rdBsAxeamFGEMfzHcyTn2fHgdHeYc5p", "identity": "Yuma, a DCG Company", 
-"claim_type": "Swap", "claim_type_subnets": null}, {"uid": 95, "stake": 237252.102372915, 
-"alpha_stake": 167454.678504987, "tao_stake": 69797.423893207, "dividends": 0.06143282215609979,
-"incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 9.093981622, "hotkey": 
-"5CdNo8k6UQgW9mGAmEKUGU5MTvazvF96q75KMMJbbCqBsn46", "coldkey": 
-"5DywxdtESjskgPZrDXL86qV44SpPgJuqs9X6noyJJwX9PaSD", "identity": "General Tensor (RoundTable21)",
-"claim_type": "Swap", "claim_type_subnets": null}, {"uid": 138, "stake": 76165.594814578, 
-"alpha_stake": 54251.520423812, "tao_stake": 21914.074398703, "dividends": 0.019684138246738384,
-"incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 2.913469694, "hotkey": 
-"5Ff4i1yuQbLPqoRkxanYAZoRiJcNLaAnDoJWso5UZw92es46", "coldkey": 
-"5FuzgvtfbZWdKSRxyYVPAPYNaNnf9cMnpT7phL3s2T3Kkrzo", "identity": "Rizzo (Insured)", "claim_type":
-"Swap", "claim_type_subnets": null}, {"uid": 232, "stake": 60255.404916282, "alpha_stake": 
-15182.442178283, "tao_stake": 45072.962754324, "dividends": 0.01556420233463035, "incentive": 
-0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, 
-"emissions": 2.304995829, "hotkey": "5Fv5t8frGG3MKtahp4WafKPmT5xZDbqWf8aFZpXyvjHTgzzx", 
-"coldkey": "5EBuUXD6eXSSWVaT1NqaUQoAACUkAmEogzAfPQvDXTEQZ8Ff", "identity": "Open\u03c4ensor 
-Founda\u03c4ion", "claim_type": "Swap", "claim_type_subnets": null}, {"uid": 35, "stake": 
-33197.867449894, "alpha_stake": 12365.351538491, "tao_stake": 20832.515918949, "dividends": 
-0.00857557030594339, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 1.26989879, "hotkey": 
-"5FLoWCDovMPeH3Gv4syQSZ8TuKcMv6N27g8diDU8zJSeRv8m", "coldkey": 
-"5EnXts8HKLv1o3qhFBGPaoZt1CjMd2g4RtKDpnp3A44xFCGK", "identity": "~", "claim_type": "Swap", 
-"claim_type_subnets": null}, {"uid": 92, "stake": 23301.965977962, "alpha_stake": 
-15379.14002006, "tao_stake": 7922.825960771, "dividends": 0.0060120546272983905, "incentive": 
-0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, 
-"emissions": 0.891308337, "hotkey": "5G9hfkx9wGB1CLMT9WXkpHSAiYzjZb5o1Boyq4KAdDhjwrc5", 
-"coldkey": "5Ek8i6wDRakJfJPM9wpJLYDE9G9uaqHLdARoewtTiLtbt33f", "identity": "1T1B.AI", 
-"claim_type": "Keep", "claim_type_subnets": null}, {"uid": 198, "stake": 7511.308148902, 
-"alpha_stake": 6693.740400442, "tao_stake": 817.567748756, "dividends": 0.0019378957808804456, 
-"incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.28732032, "hotkey": 
-"5G3ZwNwrSLQ2yBvyMXPaYeZfvKAmLNrXvfVtW7mi4Nz46MUV", "coldkey": 
-"5CqsgERpW6dJn4AtTkfckcUd7Ab6JNVa2Hb2MhyjApYVXMUV", "identity": "MUV", "claim_type": "Swap", 
-"claim_type_subnets": null}, {"uid": 218, "stake": 27.857903278, "alpha_stake": 27.857903278, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5G9kAcwQH3eEjjJQ25pKJQTuDFSLJohpogQ8B9dqxhWfCuzf", "coldkey": 
-"5FHxxe8ZKYaNmGcSLdG5ekxXeZDhQnk9cbpHdsJW8RunGpSs", "identity": "Kraken", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 0, "stake": 20.354082168, "alpha_stake": 20.354082168, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Cm4iZoAhANzWya6kzHQJoE6N2HBtVd49FWDWpX1vNq4bTaU", "coldkey": 
-"5GvGKAE4GqMpARqqF3yj5jMY7Jvm4keJ9qr5brMHGi96bXGn", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 212, "stake": 6.606946292, "alpha_stake": 6.606946292, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5H1TwdPSWU31zEFzagEwtcbEWobemr2vxHTfFQWzYdrnWgsf", "coldkey": 
-"5H9f1Lrdtx5qNp5RxfG5zNuk1a1cKQyqn6bgMchgMbig9JqJ", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 169, "stake": 6.446802311, "alpha_stake": 6.446802311, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5H6WniawbkJ5nae1cZkxxLhAQuFSHj4AjfCteq99oag6HiVi", "coldkey": 
-"5CHqtDYSUCXN3pncJ3QcBnuPVRinyRHan5aUE4gXGovXvYnF", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 29, "stake": 6.284412778, "alpha_stake": 6.284412778, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GsqVBw6mFtDFdvizd5zDFsjh7S254sNgKJy2Tzv79x8fk95", "coldkey": 
-"5Ea5qoHMYytWWEuenhQbekGaWRu2pTr6FSyAD43oU6VQf3Zf", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 243, "stake": 6.265788723, "alpha_stake": 6.265788723, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5D2sCob3QREChwjD7Ksiew6hkJJffkiK5k8m5NYtD1K6htTK", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 79, "stake": 6.258378127, "alpha_stake": 6.258378127, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DS4G41Szd9TnxbBEopxYowAD9L1Xcqq1pWkshY7GdiNGi3V", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 140, "stake": 6.258378127, "alpha_stake": 6.258378127, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FPDix84HbU9h3GkKDK1CBmT6ZXmx2aw3hzk8n8yCUucjhcG", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 160, "stake": 6.258378127, "alpha_stake": 6.258378127, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DNugM6YECur7iMTurzTvg26pLAUvAKNBkPGf5vXaFxytx9Q", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 182, "stake": 6.258378127, "alpha_stake": 6.258378127, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Gaz7pY8q6h6ss1TMhhLw31QN22GZ1jMCsCiXJXfNQqJfQos", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 51, "stake": 6.253958092, "alpha_stake": 6.253958092, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Esqtok3gb2qqhSNggkHms5EqJRBHDHi8VUCTFXJBSPYrswf", "coldkey": 
-"5GiwoEqfGdFai6LRn1LoNFz1b1uuE5sTooYW2471KwmTzDqe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 202, "stake": 6.251808317, "alpha_stake": 6.251808317, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CFNfrCXLQx4CxiCZZLn44k1BVnkhjfJbmnCoN2kFwSim5bz", "coldkey": 
-"5D24k3gFzcFwmx8dZrkWifm1cNPp24tUmeVBLAq8WXZSVvJZ", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 239, "stake": 6.251808317, "alpha_stake": 6.251808317, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5G6YAVn1jYjn8m2TgFwxdhNgcdfgZWrrPZvch6dooDx6jNJ3", "coldkey": 
-"5FLJraJi6eAwUzepY5pSRgvqrNqTmqLeBduAeETsy2G6dvEm", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 254, "stake": 6.251808317, "alpha_stake": 6.251808317, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CVNYn5UKjspHYMZbUYApph3H1cNEiXuTKdoqRtL8HNCy2yu", "coldkey": 
-"5Hpx4181ksfA29LbwMznQiKi79C3FVSiRfQxQVhqAJ3d2ggo", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 213, "stake": 6.247668642, "alpha_stake": 6.247668642, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CaWPvyvKcF8ULVaTDGs8gHK8RonjrPmieQLqUxSeSuXKoyV", "coldkey": 
-"5EWjCFV7ydFutDX3bqVE78UWsBJxVg7ekhb2zK1mPP9B9R9Q", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 96, "stake": 6.220287817, "alpha_stake": 6.220287817, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GeLXDbgsNDC6dN1DwvGL7thsNZbsGcuSXwyVbNh1yBfwScF", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 122, "stake": 6.220287817, "alpha_stake": 6.220287817, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GRC1XhKrSqhyHdmqQFqy2CbNHKgfWTaoG5VE77w25qP43Z4", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 194, "stake": 6.220287817, "alpha_stake": 6.220287817, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FNBaaEuk5XvTVakNHXXwSzKxTCGHfAwWvLMp5fSQPiUwEpc", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 14, "stake": 6.220201519, "alpha_stake": 6.220201519, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GWMz4UWGXHo7uRtecnA4KWwuj8euZ4P4rvippu7ziahatxz", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 131, "stake": 6.220201519, "alpha_stake": 6.220201519, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DqdarZ5oaTz1iyVn7dTmN2QVKR5JZRXP4ieZP7BUjtX2Rob", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 189, "stake": 6.220201519, "alpha_stake": 6.220201519, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DHXDPnS8WmvWFJmXaUedjcbCRXiW4kRn2jDTcwZQYmmBvX4", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 100, "stake": 6.208788978, "alpha_stake": 6.208788978, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CngXGbb5w885s8eyc9eanzTXcdhy3qqpq8QTBTKEfQ7E7kz", "coldkey": 
-"5CwhfV2N8g1aUwMXnrrTVaFFbmZLT9jVWwYJgiDuMQnofhdG", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 177, "stake": 6.208788978, "alpha_stake": 6.208788978, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FjtZXqt25qNCiw18XqdNHK3kkseDrYZEYddmEnsMsNgAPoi", "coldkey": 
-"5Eeq8EEohz97Qdzkxbf3gkTE2oDAS8j18eYrDRdbHMUVB1JT", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 37, "stake": 6.174700613, "alpha_stake": 6.174700613, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GL7GNwoqyhigeGpwX9y1TyTW2EuGESBXD5n5mFZGG16qVVp", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 38, "stake": 6.174700613, "alpha_stake": 6.174700613, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HjU14Ag7rKQ57PBgVb74u9X6ns3XP1QfJkffZXmhcc8oe8K", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 166, "stake": 6.174700613, "alpha_stake": 6.174700613, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CyEsqn8PBBvKHJ1hjiprvj9UpjqC8VyZgS7VtVJDUpvGWMD", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 204, "stake": 6.174700613, "alpha_stake": 6.174700613, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5C83EgpSsE63WV2tpdgsS6p5rYzJTmzFDKqYp6MAAaSvhEsV", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 221, "stake": 6.129982877, "alpha_stake": 6.129982877, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CJDr32n47buys2tXgzifeskJR9u3rBvVmTENVwt6PaAavi2", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 54, "stake": 6.084321303, "alpha_stake": 6.084321303, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FZ5Fi8S9huF2P6utrpZEo73wdPDLF2T4BapgPJbnG6kbqgQ", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 230, "stake": 6.084321303, "alpha_stake": 6.084321303, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HBfGWmmSpQZgSYrvfdSKJXQGaLj3gnj2NfLt1EEpVzeM81m", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 101, "stake": 6.060877564, "alpha_stake": 6.060877564, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FKe7rdoCfkMceaqrsctHKm9wXDHfKeBn7zoxLEX5HZtoBmX", "coldkey": 
-"5FFSHA18ADpAWH8LAhY7hEnavambZMyThyMi7bro6xgKWbpL", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 68, "stake": 6.039603567, "alpha_stake": 6.039603567, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CDNb5MxsmnYMqgBuyWXPXssYCMjxye7RPChJbYn94y14CJb", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 107, "stake": 6.039603567, "alpha_stake": 6.039603567, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CqTKEGcMLJ4EYdam5JRvTF3fMxQASettvciSaiNaBLYkKEu", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 94, "stake": 5.988837438, "alpha_stake": 5.988837438, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5F6bvbXWy1FXgbGDeQgn7Eza6rCTBnTQK4dad3suTTywkZBg", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 200, "stake": 5.988837438, "alpha_stake": 5.988837438, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FEk27bZc9cVknrew8jPCLdEPSCMeBmaPn3JQaydWMk2TLES", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 205, "stake": 5.988837438, "alpha_stake": 5.988837438, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CaJ1ytpRgxds2zosECp4K4dqmzw9ka94EmhiDr6Ua8ukmKW", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 219, "stake": 5.988837438, "alpha_stake": 5.988837438, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FNviNYijQYvXqABaYcTmVHxMTnW4Wuvf9bnsq36HU28MzEs", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 249, "stake": 5.988837438, "alpha_stake": 5.988837438, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GKUTUm31q4sb224rp7Ap51hhrDDRpfDSP6yfK6xUGz57dJF", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 71, "stake": 5.859149335, "alpha_stake": 5.859149335, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FNp64ecxDC2FiVrhzMySrtr8K7M2HToxqWGVKAqErP2Kq63", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 197, "stake": 5.813355163, "alpha_stake": 5.813355163, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5H9h7FpdVMCt5zMsAdFPzrGruLSxcuGEG8D2a9XiMN4XavQC", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 72, "stake": 5.276037175, "alpha_stake": 5.276037175, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DNoBwWj1zMGmkpZ2UBBuxYDSVS2QGnDJ5JknPhmJ1Ux5mvC", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 64, "stake": 5.271017297, "alpha_stake": 5.271017297, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FZ98fFa2nikzvsTWNiiSScykgEbnsPjfYRkaRVgXBFnihSU", "coldkey": 
-"5CFgo4GKyWshvu4bitenZ63YvwiCUGJ11fGi4d49nkXqL9P3", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 74, "stake": 4.798902546, "alpha_stake": 4.798902546, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5H6r2Mj8xqMiSng5p9V6PGXQy68prmm4uhwruBDNnh2ZkqoX", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 103, "stake": 4.760725938, "alpha_stake": 4.760725938, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DFC1aNnXzZNZouKWKquuk9uGPav6Bj8Zg8651CzokqLeqyB", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 17, "stake": 4.358743442, "alpha_stake": 4.358743442, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Fe31G3mDFU5jrb3k9u6PxECsoyuU5WAwiJTHn5Jpp4K5eMo", "coldkey": 
-"5Ev5twjxsqX4W1sASqKNXuBwEfaWHnedpQ1ckN3QRMPnaDm4", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 58, "stake": 4.234025617, "alpha_stake": 4.234025617, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GxQKn19hq7wReZ9hgwB4NPFJUATtZJkQA6wt2NYUAwCoiuD", "coldkey": 
-"5DoccbbviQFWLDT7G4wTUoMpx7vSWyGVLnC3xcVUFBEwFiGY", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 199, "stake": 4.062034483, "alpha_stake": 4.062034483, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5E9gLTBb2sbDSHo67K3jp4MuTqMnFU3yt6k5yzUDy7G55uWJ", "coldkey": 
-"5FtHR2tavYjgWxr1tgHgXvRWFjeBuTmRNw6TXSUJnEMmUsgt", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 226, "stake": 3.94784259, "alpha_stake": 3.94784259, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HKky3fncixyUREx18jMueaJt8cFNxy17ESMYTm7fzKQdFYr", "coldkey": 
-"5EWaT3FSTn5oE9QRXSCgaDfqHAFziazKnkfJbKtu1pNLvBdQ", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 77, "stake": 3.439269188, "alpha_stake": 3.439269188, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FqFwQ3XriJSFHf52YyUUPWLXu24zzoTk9R1uV3jVfGWAxuy", "coldkey": 
-"5FKzwwk2jbLL7jFjmkhUvcHZTtUqNQyG9LaTcnDf5FjwimGp", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 1, "stake": 3.396254261, "alpha_stake": 3.396254261, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HTrRiQNkPBLUDCiCxaaN6noutNEmf11sk7HmPDxz2JW6PmW", "coldkey": 
-"5CqSp5CJuECb6MxbDZpZcBisDHdGKzVJ6G4KoSQ3xFcTqNWT", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 211, "stake": 3.396254261, "alpha_stake": 3.396254261, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CGRjJu7Psq5o9bHaidxbSjtcoa6ArkFbXHDLpCC4Febqf4s", "coldkey": 
-"5CWyXCRmMUV1PkL8niQiCqwSnoQSjSQZ5bhcQVf7CzMs5c1g", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 223, "stake": 3.396254261, "alpha_stake": 3.396254261, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5E9xAHGF3nCnSHW9uePJWJFWmp3T2N96PXHxYZi7DWxuhy8U", "coldkey": 
-"5CfG73sr8ayeYmae8iT3ZDvxV4fj76XLUfcN3X7d58gCehgc", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 75, "stake": 3.350667057, "alpha_stake": 3.350667057, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5H15k6NohoJ4SuX4pXCB1cs1wGBUgKn3tWNeFykZre2oomBP", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 65, "stake": 3.163829382, "alpha_stake": 3.163829382, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FBpJzvN24NJLKXvLJ9hXTB6fHa5sdfqUvYi7KUMD2XxhYdS", "coldkey": 
-"5CSMZAuE62AQTNCjVCQyEgiqv9xPV9FNoCMYVTgxhNqfADQK", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 119, "stake": 3.02815912, "alpha_stake": 3.02815912, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GCFRmqMQeAkSPdgWyNGf3wK2MNn73VfFp4MTAzn9g8ymadn", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 174, "stake": 2.982146868, "alpha_stake": 2.982146868, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Gnau9RoErpSm3djzR5VXU5kg9tTjjvNZ4AFvAW7Us5HjBxu", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 191, "stake": 2.823962324, "alpha_stake": 2.823962324, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FeeHhmNqkBtkcSeJ6CpaQMdmYMHDXyoQvtZUWy218kwqMAo", "coldkey": 
-"5CLgPVao7coftrufH4a5thnr6HJJAwYhgkWus5j4MUPtPmvp", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 225, "stake": 2.712090311, "alpha_stake": 2.712090311, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HCKcfvDoxw3veVpEuCzyhC6ngmR5vGTZsKconLtMozLCrwe", "coldkey": 
-"5EHfnX9HWSJcCeP8okFK8cFU4NTVEe2E2eALyeF25phiRkQP", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 120, "stake": 2.657751897, "alpha_stake": 2.657751897, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CLVm3rZLRJVNa9cdvBJ3SYVdAwDfMEMeJ4wYxT2F4qunQyQ", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 228, "stake": 2.329803522, "alpha_stake": 2.329803522, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GC1w8KaPtdb1Jty9gCaPAT9srr1fF3qF4bMwrYNT3DGDz2V", "coldkey": 
-"5FBrL26fDqvRf3PfBXQKuSgXDrzjSPGMKvtkMdcGRBYJVrQq", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 130, "stake": 2.005785908, "alpha_stake": 2.005785908, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HmBZviKUkN2D9gS6d2YPHKWfSSsoGEos19ZCFhoniUNBySk", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 222, "stake": 1.751415558, "alpha_stake": 1.751415558, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FjT66FkQd46FPCB9qYwSxfdYBr24YEcQa3gNEH7RcUxf3py", "coldkey": 
-"5DrCZjgV9XQ6CU7Le1rcMxRjT3hanYKg472CjRBjaEDkGvKn", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 5, "stake": 1.740930607, "alpha_stake": 1.740930607, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DCtL1T5EgbhgWDa6sJd5W2MehwokeX3jrvAwb7FJ1i7o3UG", "coldkey": 
-"5Eo7593PusJiaLHxtqMGescMrVHPwnrU7JgfkX4ZeooMZ8AX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 56, "stake": 1.705958482, "alpha_stake": 1.705958482, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CzPVhEvaiKh8ZGL87qdu4nf3GR1fzerDBh5kBQTr8g4aXHS", "coldkey": 
-"5DJKqRn4Y8Kd5q1TReq2beZpHk4KqRWbX9YRnwP1qdYcqKQj", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 57, "stake": 1.705958482, "alpha_stake": 1.705958482, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DfUQTLkb9bmrL43gC6pLMgmJnLjp9r98EA3kmtbTYoFXS6L", "coldkey": 
-"5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 49, "stake": 1.699384134, "alpha_stake": 1.699384134, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HLChHuFM4i6xSPF1VgWiWvsJTmcL955mVZTMppq8TyTXQz1", "coldkey": 
-"5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 231, "stake": 1.699384134, "alpha_stake": 1.699384134, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FBsNCW3DQ955CyHymdeW5HrUepV3TFCBHas8McY872HdZ3j", "coldkey": 
-"5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 91, "stake": 1.662121923, "alpha_stake": 1.662121923, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HgXFoXwBqiy3NqYNZkJRZmBdyCAoHYnB6yq9fNHuB2QSti4", "coldkey": 
-"5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 73, "stake": 1.496351727, "alpha_stake": 1.496351727, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CuButPSZNW1SaUsymeyc6swRPWSYMNphQvchXNiaQmpBDtb", "coldkey": 
-"5F7eZGCiSH5Yt8RsCZJQWrQkzkEVujXXe5f91rCVhfz7pUdc", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 99, "stake": 1.496152732, "alpha_stake": 1.496152732, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HnEX5biNsqkkJSGZHctPCS7EDer4zvWyfqJtcjwH86CA6mT", "coldkey": 
-"5DrBu7iNH9xpNdbxitfa9KqAGipjaZSiBWL8LrEB6LEUxAw6", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 88, "stake": 1.421394349, "alpha_stake": 1.421394349, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5G6kifSsQLVRMw6NsQK7UBPoGLRH56WnXTG9P88ezdtxhpyE", "coldkey": 
-"5CFFZ7SEniYEPJmnzdSHhfRhhckz3tXFonRcYEnDeyHQYBqb", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 193, "stake": 1.421394349, "alpha_stake": 1.421394349, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DfBSHrGUwRvPQ45sWkf8PNhMRKjvhv7NN7qzGpwsNrd39nY", "coldkey": 
-"5CFFZ7SEniYEPJmnzdSHhfRhhckz3tXFonRcYEnDeyHQYBqb", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 67, "stake": 1.363768548, "alpha_stake": 1.363768548, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DRVjJ3Wh6XFqETCNWhwdxJSQDHD5jhLRsmtQtduzVEtzeJo", "coldkey": 
-"5HpuBXpsd9jgFnRTRrbrkSm6XVXB71TwwNZ3pdXKgF5My9V8", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 16, "stake": 1.224710825, "alpha_stake": 1.224710825, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EUCGjKpiZ3XnCYeQqn2B2xdkjA8paMwt7QvykmgwsacnLJ7", "coldkey": 
-"5CXECeEkeyQYuaAa67DTN9BFuxeN4ZTBeJN9Zi4NaaDskhFS", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 176, "stake": 0.895633488, "alpha_stake": 0.895633488, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DULbfJW2m9UjSAoKDWQTtfE18trYbL5zdKGEWXGzXz9BKMm", "coldkey": 
-"5Fgz7uBSvdrZ4tsKi3rY5raFqJ6h9VrLgVrHZCDznVPLfvmK", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 18, "stake": 0.828422099, "alpha_stake": 0.828422099, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FRP87oFghmT93fwDPxRaPV1XpzZ8WyNMSdQujMHpkSXaAxR", "coldkey": 
-"5FZFUEGbTM5fCzN95jxBiD2DBDTiHsHL63KL1QkcuzYdX9ng", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 151, "stake": 0.795153414, "alpha_stake": 0.795153414, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DiLGQV3EsA8A5gJP5JSjgBt3PVrXF2w9zbFyVUwkcYtYzCG", "coldkey": 
-"5CoayL9qsEkPBp8fizmth2yLVB994S2u3m6Hw61LtMFJBoFH", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 159, "stake": 0.744430138, "alpha_stake": 0.744430138, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DkM4QaeokFfse1gENWWBktpzCLhahJb6DLtdKTgWDELtahF", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 244, "stake": 0.678016497, "alpha_stake": 0.678016497, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EHCeMiEiDFgxSCHKM2wqGBsq89t2m7T9CRAKMbUL6AEVGQc", "coldkey": 
-"5EeNdS7biA4u9JkDjC8a5HM4n6wzUoTUY8NSqdBqkYdeCA3k", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 82, "stake": 0.60777228, "alpha_stake": 0.60777228, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HCF5QunjrSE3nqR37xATHUDXYeBS1mAR9QdtzroZLJMeeTu", "coldkey": 
-"5GLQRMbomh8BqJhSYfeCipCB69finqsWrtwMvXMwZhvHXvdZ", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 53, "stake": 0.491163815, "alpha_stake": 0.491163815, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HKX22yWePufTy49kXX3PgYFThAoN6SE7LvqJ1i5EFBFk1Ef", "coldkey": 
-"5HZ17FswE9RmTPtEtyrbPpUCbqmHyUYXyRAixXZBAk5RSPcK", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 123, "stake": 0.491163815, "alpha_stake": 0.491163815, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5ELCnLus881xmZmA35Ynnec1TfrQsBt41oYGLuDVphaqsEVH", "coldkey": 
-"5HZ17FswE9RmTPtEtyrbPpUCbqmHyUYXyRAixXZBAk5RSPcK", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 185, "stake": 0.491163815, "alpha_stake": 0.491163815, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GqKqvHNARmTyuUqKUFnTeueTryuUDqUaQngG4v4kmLmMwuT", "coldkey": 
-"5HZ17FswE9RmTPtEtyrbPpUCbqmHyUYXyRAixXZBAk5RSPcK", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 227, "stake": 0.491163815, "alpha_stake": 0.491163815, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CCvQf5kxJ8fxi6Sy3tvkTBb47Q6tZA11yb6ae5QJ8AyRcfG", "coldkey": 
-"5HZ17FswE9RmTPtEtyrbPpUCbqmHyUYXyRAixXZBAk5RSPcK", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 25, "stake": 0.486232999, "alpha_stake": 0.486232999, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DytZi763sJVX7HuPVxrKRX8N7bciiTP13azwU9zr86rHUki", "coldkey": 
-"5Gb7e4B4kHWvCMzuZGvj3wNTsJ3iJ8ueKCKPcvytJtHPCiAA", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 134, "stake": 0.482271033, "alpha_stake": 0.482271033, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Cesk8rxDRax8KW8Weu1xnYonHyBHyYnoVd3j8Uf74jAhGLw", "coldkey": 
-"5H6NYFkbr2YqxKmxjvm7AmmgFMFGpZJ1tVdLEPPgQNDdM33b", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 40, "stake": 0.461341896, "alpha_stake": 0.461341896, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GTTt7gWSeJSujmMkCC57NPxWhfbyCSbMRmwSe6o4xqKMgWv", "coldkey": 
-"5EPT23AASBX6DUzBGVL84MwNGP22rKPaUGawEeVvt3AMrCpu", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 214, "stake": 0.411631456, "alpha_stake": 0.411631456, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5C7MTn3nvJSxVU61QsJY9De5ZnJECU5VFnvzmAHC13XPdxcx", "coldkey": 
-"5C5DzUY1E2UcQ2nb2S3QGYzenLyJYtAhJx1fG7NUsC8biPXs", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 22, "stake": 0.222981875, "alpha_stake": 0.222981875, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EPjHRJAGYNanJkfGeELv8JcanReQUpXneRjevpT1oS6etS8", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 210, "stake": 8.835e-05, "alpha_stake": 8.835e-05, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Fumz6iUEJ5Jmn8a3uR4GcjGdDtQ3FkWGphWukKxKg8WLGbT", "coldkey": 
-"5DyvTZFqHEEgrv9mCUm7FamYwZTsspQ75GYxLjHcJZYTtbLX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 47, "stake": 6.661e-05, "alpha_stake": 6.661e-05, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CqrqtVLsg26r9CVwaqNE8CtfNdyqWcqhAjqu8hNTXVDaup3", "coldkey": 
-"5DyvTZFqHEEgrv9mCUm7FamYwZTsspQ75GYxLjHcJZYTtbLX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 62, "stake": 5.2066e-05, "alpha_stake": 5.2066e-05, 
-"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, 
-"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FEQRoJfkgePQn4E6sMBUPJSebtatou7nhPDuKMcpSp9Y8U8", "coldkey": 
-"5DyvTZFqHEEgrv9mCUm7FamYwZTsspQ75GYxLjHcJZYTtbLX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 253, "stake": 1e-09, "alpha_stake": 1e-09, "tao_stake": 
-0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DJEauWy6MiyipFPwHgAxLWdhRQ2kSExVGgRQ5VUxjnYGN7u", "coldkey": 
-"5DLi1VsZSbPCaxdxvuEceoxA1MebRxh6SKUr89vWCmHkuyGs", "identity": "Blackwhale", "claim_type": 
-null, "claim_type_subnets": null}, {"uid": 2, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
-0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5G72X4kHGLdFhdS2T59zpiUKWf63jsPzjdwqvnfWKUvCCEq8", "coldkey": 
-"5FbLUREbGkzHRogG2DsH4Jqhdg8nraxUSPVmTe7qe56KwCrg", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 3, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DJjGsUzKJWFUEuPcFNv3zD4gZ6kHzbCEZkmRf8cyvdVa97N", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 4, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Hq1mjcyARzwHzYL5vCiXxrS6eHSDWLenB4FevocMqzxL3CD", "coldkey": 
-"5Dy4X43As577PkJkAXNmRow3vADbruSuvSAiYqqMa12uVJsf", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 6, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GCaY9GBk4nJQ7XV7SozVSbAyp9XHmqwPYTaKK7sa2pMqwX3", "coldkey": 
-"5FLXJDwrLF4J3dKSwHJN1YKNWQin4zAsb5xzZ14p8a7czJBd", "identity": "Double_Builder", "claim_type": 
-null, "claim_type_subnets": null}, {"uid": 7, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
-0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EAJUp7DdD18Mi24bRKJiahhjjqUUHCfGVbQr7QhsL4iFL2g", "coldkey": 
-"5HBQQsSHFaJzUoasZcc7S9XfyLgyD9T42gRCgsHThg6egddh", "identity": "Xvirusman", "claim_type": null,
-"claim_type_subnets": null}, {"uid": 8, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Ew98R7XAX8wqT1NuFc1uZNNeLZf9UEBd7gzmtZvHtLy868K", "coldkey": 
-"5F9DkSegTMGxmaqryjmqBpUUaBJspJbUcUjWWHBFQ7WJvbTL", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 9, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Fv4t1Gmrs9EcHU1D8eaVmUdCqD2ymwBgtAC3Xn1y2fgNa59", "coldkey": 
-"5CXncvfTk1829mtk3fNBJgSXxMLio9ihMnimyKjA1kJav2DU", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 10, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Dhw19aLFwmZJf8H5kDzkGv3Kv2m1fVfnCqHvYueBzV8Eo9H", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 11, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Guv8WaCUGrdg3Rjau8rP41gHDt51xKKnHRByxwBFsz2ATP1", "coldkey": 
-"5H1XrcPHRahzB4uDniQTUpk3fWoCAYyGZpeun9NgttFW9CML", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 12, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Djt5gZQPvF7gvG5ZpxKLrAU4XN22SbPhMXFeiioMFEnz1yd", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 13, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DedUd1skHSzBV7S8grXYtFj4tkheX7xVYzAsJXZiBbXasjU", "coldkey": 
-"5GMqoRTPfDyJUnnwEhk1wZAQLZioXEG6s61YBNHGdndDZtHa", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 15, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Dqp8yzFXPe3cdZdVTNqzHysqmoy1rVySFwQnGFxxD6BRLrf", "coldkey": 
-"5CXncvfTk1829mtk3fNBJgSXxMLio9ihMnimyKjA1kJav2DU", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 19, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CJqggPgheMLkjXQrcmMNart88Cr521oxG1vRhZJq7hzakQX", "coldkey": 
-"5D2ujDScuKwm5znbJsCwQUfSqgyeoHUyxERYTQJ2NTf6VCpT", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 20, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CLed5rt85n6KnngW2wZ95Ptnbdoh1aLjYiEbKmDb5xTWrzt", "coldkey": 
-"5C5TTzoTS31XCUtX624vDbtfKGpEucnmFHbFZvrBcftcyUv6", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 21, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Febcz2K1a6XiB7KPP8aQncKp28qu8TQNV2f7jfXgSCygSgC", "coldkey": 
-"5HeWJpESZ5VDZiGF2XEW8CYpPWt7teoLSWsoysrZ9EUGNoJo", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 23, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GsiH4KLP6dugTSMZxMy7y6dWh4gTHWTVAxFDwkA2K4cB4fa", "coldkey": 
-"5Hg7f4AfMcXBi2jZwvE7jm3m8JtfuqFgnVzpLKfFXWQPhSrx", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 24, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Cd2zZyMQnvpRaYEHCoCZwYE8g2rBD7quEbwPLyEAXzUrvFF", "coldkey": 
-"5HBQQsSHFaJzUoasZcc7S9XfyLgyD9T42gRCgsHThg6egddh", "identity": "Xvirusman", "claim_type": null,
-"claim_type_subnets": null}, {"uid": 26, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CiBHq3EtwfDe4WskMTrQ3YBgxGSLNTJQE3ZEgeFZ2ySmkPv", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 27, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GRYqnQAoMrCiEAcRhkWvfYMtWkDByptzWEEKkrKcve69hVe", "coldkey": 
-"5CXncvfTk1829mtk3fNBJgSXxMLio9ihMnimyKjA1kJav2DU", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 28, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FTqn3qo4RbSzHoTczq91SzRvTFLViNossxUwUWsZqupt7Gj", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 30, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GZREAWaouBcJmxhn6zxE1SF6LD2Z7Rk9C2DcJGCQW4cthrk", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 31, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CPQs81c9Xx8naRSSxmcoMytZHbd1akHN7VKeLVRvEu9jq2y", "coldkey": 
-"5HWTXJJMFDK36pqxKMPAJCCt5mAzkwYvx85Ehii73GtDVSEF", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 32, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Cr7aa3R2KaV18f9VmbiuLyXtQhyRue6iN7nbpVmmuCXHXrF", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 33, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5E7xJwpFurAA5UEBS6JJqjngPxfpJRntqCsfZeQsaALh9X7p", "coldkey": 
-"5GP4F8XNVdzwKWA7btHYqGnDRnhyzrfrbedupwVuJLk16pwg", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 34, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CyQkXRQmj6KnhwzzZirR1siLfLKWDrwmV9Gzu7NBBPc27K6", "coldkey": 
-"5FLXJDwrLF4J3dKSwHJN1YKNWQin4zAsb5xzZ14p8a7czJBd", "identity": "Double_Builder", "claim_type": 
-null, "claim_type_subnets": null}, {"uid": 36, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
-0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DaAhzXNFp2dWXBQQSW7WTZptFV6PYe2RFrcyyrVMzDQb2mS", "coldkey": 
-"5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 39, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GxrtMkuHM1sdarQnGkscxup4sAcxLaipDF7fkHhwDqr2TFo", "coldkey": 
-"5FxV9u27cBjiJgvoQhvmZoR53WL3WuB6WBor5jkQqMr7pjAS", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 41, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CY1R5FsDk3yEv9ar5togemrEQsTYTXX86PgP6E2Wh8TueME", "coldkey": 
-"5CtF4NTSM4koUvfrj4nsRhmLjfzY1MYDE6gkZT7D6QrtJxER", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 42, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Gmq672K6bAkJWYco2x987kRoYnJ4Yf7NB1yMk5SHdBUj8GX", "coldkey": 
-"5HpzTFHAKeGVSztZRTdTshqMYfrTuSfdfdNjS8BTtVfm3Crh", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 43, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FbFhVQSwWrfKDPRV8cBuWfvQshV4sgwX9BQ1CG5erevn56j", "coldkey": 
-"5EtJWiPVRNFULwsBHVVQR2Ea9ApWgGAV6MLbqH3F6CK1StWx", "identity": "Abs", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 44, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FWonrmDciPZTHr1kC2DwUb2M6GinX1jFrmskZu2jM3Gc1Ta", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 45, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FyTSkwKnQ968xZwC8XBBKDYzoFq9vKUFhs1VPFtpNtjmSPA", "coldkey": 
-"5Hg7f4AfMcXBi2jZwvE7jm3m8JtfuqFgnVzpLKfFXWQPhSrx", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 46, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HeCgMdDCLSxkT8jLq7ofkBVoXkzqfUKby2MWtitkKkNQ7LS", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 48, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5E515DHkkhudZqVahpDAaTm8DfvA9igcAVrfYYPpYGWGQabh", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 50, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CiSYsg27Ssh3VPvFbVuQNvQz7jSLuGBXhzPeRCxoarkQwA8", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 52, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5ExkzGr6LdYx1MeXnAiw2wCsp33pYPjdCEN3aesG1Y8dXP8E", "coldkey": 
-"5GbZvz4xiR5Z7J7gPbMFHaJAHLK2NULkrd2bG2Rm3y9Z7tcC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 55, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DvrGKA3MmM4Ys5EowsuHHr5yM7BUzQpwtQ5PU7chYxzXYs7", "coldkey": 
-"5CcBsoStqyGt2eYoDy53k888vDEfSSQs6W5o3Lb1JWcSHi5x", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 59, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FbThBTpYSCBxgz7PtPhyHvbEAhRFT92G8F3g4bVKczqLQCR", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 60, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Fpy39h3qbac4mKAQKiT5JkCbJxrPjRhrrK3McdNgEmQP8Kc", "coldkey": 
-"5Dy4X43As577PkJkAXNmRow3vADbruSuvSAiYqqMa12uVJsf", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 61, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Fmo7ZPUZZAhK7CRpa76w9vGkXQxW6Cx1cmBeGkSThmXUfAa", "coldkey": 
-"5EREdiYaaWYHHWBRfTSHK3ivhTD5kpApy2co44xYJFH1cWre", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 63, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5G1mBgazC6QmguxaQJaVZE6b28vN6TG7fTHZFTxv5nAvuFuB", "coldkey": 
-"5GQn2UdccoLh5eUQCroTqfUmZYec9XCerVkG88K6vmqMA4G3", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 66, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CnywELXcGpt4NnHiarcawmrQhgNqeCKfZ7BGb6pkBmQuHQM", "coldkey": 
-"5GgwhQ6EZ4w16CeAEvuSMrQSxxdVptbyHzHoQsertXVPMJfh", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 69, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DUf1Aj4MVuqQCMUQvHw8LxAC5nJRcdpLLk6oyu4SdFPJPKT", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 70, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5ENvWmpoHvcR1E4W394N35GjSQ4Ax7PygcQpQmC11QXXm5zJ", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 76, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DUdsErSFHXVi8A6rR1B7JSaiwFCEbcQT1apqnTeq9HjAGrp", "coldkey": 
-"5CfFrWyRyzaPSNiXoHAon25zPFnGghDDAhUobWHJgByfSyH4", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 78, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DqhkpbknfSb1kXECUEZNgutzQVkNNRCdjGya8ThRxZphhGm", "coldkey": 
-"5DqgBJDVdsqVNseBWFoLN7mqkmtaP6PGmYYJ4zjFFgsmxb58", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 80, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EhLrBMSJVixarnfyFgfNHn7iGR4EggSc2TTkEDp86u41Zqr", "coldkey": 
-"5EZnYFyxqBgT6CQd5deAWecQBecbEUio2KEZLFpBmCdsQtNF", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 81, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Hmc2u9NkEGwrtnimDdMkP6akPXnBMJqDrtxz3ttwQM2puFR", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 83, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FERbp6pUaUWbuxjo24ttTpe4iq7kwECtJckK4vHfKS2SqUd", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 84, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5E1fvj7Hf9wV7cwwqUNMY1CoRQyz5jrJFXrDme4oCdayhoV4", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 85, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HWGKgbRfvQaPkPGjPYRKjGc2kh9sxasKg3uW8RqzNQDAemx", "coldkey": 
-"5G1PFy2sjRXTr8kNYUEtXD34hdRYordq4TmNdz4vUqWWmKBD", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 86, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HafDxAyu9C4xNdoMKGKZUVsq5MfiNTQWTca2WndPaCXRvKj", "coldkey": 
-"5HGVmZQZhKCJY4LkxRXqRSQUNQJVvU7iasdr3CejvLZFpgWh", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 87, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HGsaBEe6uo3ptMswxaKRmXMxsYCb2ewBh3EQHsU74cKQ1ES", "coldkey": 
-"5GBhKr6hXptzz6dUhti8mbS6NdjKSv9Pe9qoSAt6RYnMEA4c", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 89, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CyfBhvvBGVm78UEdjGvdHkB93Upc2D8ZRNx9Xym3PCc3DHK", "coldkey": 
-"5FkP5NH4d1g7b7CUmos87xGVuJ2r8DhMN8UXkKQC5MhYbKoh", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 90, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DFV2cFp6o9FKoe6D3RBuJR6oMhevxV2N68F2YtFJaMmZFrK", "coldkey": 
-"5HWWgnhMJNVNep5FWsSZ8aPgUVP5SyfrDdAAt5U2HFxETZRj", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 93, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EHw1tiSQ5yqemCfQNPoNNEfb6MAeJXTz1G3WViqb9jPr6fu", "coldkey": 
-"5HeWJpESZ5VDZiGF2XEW8CYpPWt7teoLSWsoysrZ9EUGNoJo", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 97, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Gry3kCNqySQonGieNNjJBXEAVNDSea7m7sMEd8ZxkDzaAGG", "coldkey": 
-"5GP4F8XNVdzwKWA7btHYqGnDRnhyzrfrbedupwVuJLk16pwg", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 98, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EfRwWtSHs254PN2qMoYqJ8RzBiyY9syiaaEEztU82PUfMkx", "coldkey": 
-"5EsZo6w3wwzwJspbjK8LWyP8xcZpk34ZXFcDTvMdFJawn4kj", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 102, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HgxvS1juJPVu9M8mCWpPXyr1s5ygsKYqgKmsfg5b5H62LcC", "coldkey": 
-"5GZUkmzZxC49wQops8BDjLuCdhv5jw7ByBnbgyTSsHBcaUT9", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 105, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5G3jqdLQX741wiw5AWsN9b61s3GpLn6EDa4mbooC6iP2wDT9", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 106, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5H8SmfUNNKhHtcLyXXva4hvBjqMY3i1XsUHEsp1YRymFYJiM", "coldkey": 
-"5CUqjfHRZJXdy5eLtiBC4RbumU5zkc6pznGpBQXR26PTbdjJ", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 108, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GdomxEXGLwZS9ic4BwBHZdbfMNy8vNbWg3Bdze3JdFp6J5E", "coldkey": 
-"5CXncvfTk1829mtk3fNBJgSXxMLio9ihMnimyKjA1kJav2DU", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 109, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DXTov1hfL4g6UQ2EwUK2f8ddoYaw4EVnFJKzdK1ujxfH6fc", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 110, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GKMzy5VGRQ6A5iUfAFhyHpxZjogcdVBQ71boCBfgyEsyemV", "coldkey": 
-"5FkP5NH4d1g7b7CUmos87xGVuJ2r8DhMN8UXkKQC5MhYbKoh", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 111, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Djzw7e8BvybLFfrLDE1NxtHrFzgxCVVgnJvXBJibkbNs7S1", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 112, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HdMUG6iDGu4jG4qiKxFMs2dEGYoo7KNE6SZBzV7RxorGZC1", "coldkey": 
-"5FW4NvKapSoPQbAP9fgHFCGPYmTv6unsT8VhyCnyeMNbsHGu", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 113, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5D4SYeTwRZtYEpzNLkBEA6FmQhBcXGHbdHFAd3US7A1a1u2M", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 114, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FxptRf4VWzrntQoNQgtJrTpXgJocQARfB4taJ832FVHFQro", "coldkey": 
-"5E9dFYKF3dXz8LfXNtf7Qje3zM4sDSuK8X9Zo5C6sjzVKfLT", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 115, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HYJ2pgRBqwjGSfHhgWvju3JjN5YxxXoJghDhoHMysBCRZBo", "coldkey": 
-"5E6rcXT3PBshuKtWD3uVJKV1kiFs9jmsMop277TRZz4XaUkz", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 116, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HpjWZtDMzD85HZtstqD4Rsmv1ASF9r984ps2f8a3niHgL4A", "coldkey": 
-"5FLXJDwrLF4J3dKSwHJN1YKNWQin4zAsb5xzZ14p8a7czJBd", "identity": "Double_Builder", "claim_type": 
-null, "claim_type_subnets": null}, {"uid": 117, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
-0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5F7M6PWTVXb9GwR3qtEVPfnpGBoUhXgQvwuzp6CrLTySZUVD", "coldkey": 
-"5EPRPsyQNmj6B4eyXHiwC4C98o6MBV4XHZEagCLihTtJu4xM", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 118, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GKUk1vJY5s7jHCFYpM74Lq6QgzhvSgNK3GyQCoo38L34vAm", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 121, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Fnx48i6A6KtN9a8pAxQDZDQo3Z49JeviaLkcJUbLB9yCM4Q", "coldkey": 
-"5GsYsowPkHTtENCLYs1KHGGssRvZ5bWavsSa6fp4jpRzePqk", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 124, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CoZrvwZGwU8QJHazmoX12h2Hdw8JaoCL529u3b7RUFNDwRT", "coldkey": 
-"5Gb7e4B4kHWvCMzuZGvj3wNTsJ3iJ8ueKCKPcvytJtHPCiAA", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 125, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5D7nz5aUDiELUbEFh9PRpyJJKQU8gJ6vWxYgSakaMhDd7KXv", "coldkey": 
-"5CvbexgEPPxthEWzGHniris4tCRJNirxbsXsapcipH9skhox", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 126, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FmrcENRSaC264Sec2H8F4mKiq7dC3EW8aCaw24WCSV2Fsz5", "coldkey": 
-"5CXiauzNqqMY4Q4UwoeFdYXryzL3Lrn6KAc3QQrU528XDFXE", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 127, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5H44TwUM26PbTpuakk6zzw7MdjBJzcgr9bW829X6b6Q1bVdi", "coldkey": 
-"5Ei1zsbGu1sySKP8rwjuvmT1KygtaabbFLSyxXBCxNRc5otP", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 128, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FvtpvbLtjnk9dEC2wS5UWQaejhknt6JBDux8wj2fQaWQR97", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 129, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HDhErx8tTb2JgHxaUFZjZRRZ5SpHAvNdhCLnJxWeNLeejYh", "coldkey": 
-"5CXiauzNqqMY4Q4UwoeFdYXryzL3Lrn6KAc3QQrU528XDFXE", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 132, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HYvnfRsaZ2nJzp4jkeUoMMgt2nPeY22AQeMHu5xii3EL8ch", "coldkey": 
-"5FW4NvKapSoPQbAP9fgHFCGPYmTv6unsT8VhyCnyeMNbsHGu", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 133, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GCE1zjoCF8fma3iQ5Xe8k2fPb4gVGHgvSTiGE38YpXNDVWi", "coldkey": 
-"5FRM9Zv6UM4rw5DKRWBJ635h8j5FMsFK9k91B78XdYxFoYsM", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 135, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HQJ78SChbGziPDNCfKXHt3EXvfFU73oZ45sGp7raMwvsFyf", "coldkey": 
-"5Hg7f4AfMcXBi2jZwvE7jm3m8JtfuqFgnVzpLKfFXWQPhSrx", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 136, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EbjFQMJTpcUpyoK2JbCKwnbpdca23um5ox4FPbnmRNimjXK", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 137, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Fs4YU3w5JYSD3CRTQPsqw2FvKu2jWdCMKRFKP9t3eusc54p", "coldkey": 
-"5Hg7f4AfMcXBi2jZwvE7jm3m8JtfuqFgnVzpLKfFXWQPhSrx", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 139, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FLYBJeg6wg8JkAxC6VodjGkZ2DcLHnRo9B96WSEGm2Nnfm6", "coldkey": 
-"5HR5C6EEnwcEiEzZpYjiXhkwrds7szoYeJG9iveomT9DwCEy", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 141, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5ECanDUARiNjkQhnGrzUarQ7Fv1YCL3EWcydiwF93Xya1qwb", "coldkey": 
-"5FKXANrirVp5ByxYhKtxovZuh66qwh8GyN1PuhwnCgcwk4CG", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 142, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GVz1sYcQGS9bXdWsbNhrs1x8TmvJPmHPYTAtT4JEghpVLMy", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 143, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GBXQaKYmwChJ6FgajYDeHnuZwsE8fCpEhibiaVR4zq2hmgw", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 144, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5ES6fyJ79G3v9w9cY1GYdxNJw2qCKxzRFMpKWW8FY7rBqrsZ", "coldkey": 
-"5FkP5NH4d1g7b7CUmos87xGVuJ2r8DhMN8UXkKQC5MhYbKoh", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 145, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Cw8SCP2TYkNfCmVrV6XmeMPfbS6uuffqdCvvwC4NzTXx1ob", "coldkey": 
-"5HpPnhaFtMMHVCkGWdNn4T8wvu9qgpt5qWBvLaLA6jrtFwW4", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 146, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Dkxh5cvotGZwGSR1k2pUv2X1mvDouhuqDEaeyCWNXdNskdy", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 147, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Hh6VgirvLrK1ParbB7VxmedRqQoW3NbncMyornYf1eTaRVH", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 148, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5D2dTwYHm3bv34RxKBaWuk9bum6vxH1puWokN8WbsgiPmMpM", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 149, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GEawSEwCqSaBymAC7WFMan2ryi7P8RSQJsF56E75uFd59pc", "coldkey": 
-"5E2fVqiWDVxTQNKg1E95q2TGNEqzgfZ62mkG9i4Tow394h7o", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 150, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Hg14PWyEhTAChoV2Qbxre4Mt95QSvLfe2mA1x3ThKELNvsm", "coldkey": 
-"5GYrRs1msXAC2muwSkoNYPX9y7vtUKfqMAw1ZCtGPJLp2c7X", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 152, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Cz6UUGc8vTt4UiQWNLjzBBH3dDxue548EDzZygaN45YYEhv", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 153, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FEzfRTakturySgyQZAaGS8uHmExSNvyffZc6qMFtMw3LHt3", "coldkey": 
-"5EsZo6w3wwzwJspbjK8LWyP8xcZpk34ZXFcDTvMdFJawn4kj", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 154, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5H71hoE9rSNxW9TvsyWRqAqK119FLBVomEC6bZypC8YW4978", "coldkey": 
-"5FAFd68RSBVtPeppTbjMsaFrs6NeJFck8GcjXfqwrt8kXLmn", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 155, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GC7VzjFpiY9ZxyFsB6BDSG8ftJEFFDBWixgPrHUD1LZ4yMg", "coldkey": 
-"5G3jr2kDtHuNdRe2rhMWZX9uvoxXTiNNrjgdQug4i2c11NZD", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 156, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CCoRR9DXh1zFh4GrrQ1hqh7WiagM3HBe2Gnr2kx5978cZ54", "coldkey": 
-"5FLo4bdegStazetfWjWFAT4WDwZHeV7EnWggTv8TEiXi17FQ", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 157, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5ChwyUevRMNVTgDtCRAnHhbh4Adqi3mLG786rGkmCfh4n4rh", "coldkey": 
-"5FWGtLeVbQ9tUjUe9Yki9PTRYheCh4qLbXUNYhpVByMgiGXZ", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 158, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Hh1JpwxpfJ1MURA8dZ5UPJRMnNESGhuGrernvFkZyoCj2Rj", "coldkey": 
-"5HeWJpESZ5VDZiGF2XEW8CYpPWt7teoLSWsoysrZ9EUGNoJo", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 161, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FqBeDX14kY9pKgZF8iqqD7ddyLV4W6nf89xCjDtzeDp1r1C", "coldkey": 
-"5HgLC9GwsUCTXzed8qaA7CrnRZpVVoYvox3cSk7etHWnY9mM", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 162, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FyTh9ra8ueGAYRkW9HqchCrwxnxpKQQj2ex6C3VF6YaXm8o", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 163, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DPFSpZ9dnEv2n4piwrwZ6PER55W8yBZJoDf56RKyvXCsnxE", "coldkey": 
-"5FkP5NH4d1g7b7CUmos87xGVuJ2r8DhMN8UXkKQC5MhYbKoh", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 164, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FR9jR5CByTL91iLsDSivkYsseGnLHhFajgzpoJETT9BS7zk", "coldkey": 
-"5FTU4ZdBZ5CCGneoz4U88RakgccSMdeQPoHXK5r12KoeFGgr", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 165, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5G8xgZVrbDfktTP53F2y4c16DKr6kE7JwfdVX79GLBjFgwMd", "coldkey": 
-"5FQx4JJCsJoxjrsVjqUCb4KbaWtaa7RpiiVBahZCyTQrJB16", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 167, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FvZFzYB6bYdqsQYecDrvgbfHJTxDDF3tKptMXeTfxUSBEgj", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 168, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EoGta3m2WBGPqK5KpTmTaoEEzN7cf8qdF1J7LFYx25PugnZ", "coldkey": 
-"5CMcCZrgv39ymunFposjbtEGQeC7XHRtR5gZD7qLpCmwUtBb", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 170, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GZYGL5ggGj4hGJBULkoZk6eEJbz38Yh6MKiCjQGcdksp6D6", "coldkey": 
-"5EHkLGqZYU5jv34bLfAN3XYcEgMoxvqDwV2vUPuXinHWt9uC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 171, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DLjcenn8Mwk19UPsquft1sG7nMnhk48aifncSigbeeBZv9U", "coldkey": 
-"5FRUQK1LvTjKtfRgR22CHnSgViogVcHEhTXSM47tBgaCDKqC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 172, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CfFArm3x7K8xYaEYyR4z72Cac1Tr2FB9eari38N6JJb83Qv", "coldkey": 
-"5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 173, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DkShRMzfgfe6zDbSVVRcT85bnAhNDJWWRwqrQmR8f14A9ob", "coldkey": 
-"5D54K4NQr61PHJRmZw2TpgPRhsiAHiQi1NBwgyF6uRSciyms", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 175, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GboyCPV3J3YvFtgJhgBdaDvnJ6iNPajaj96pPpeTZ81imG7", "coldkey": 
-"5DJ2Gw78329xotYLDGUW7HDqsgNo7Ms9dHdHMj1LFDR8rGaP", "identity": "veniron", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 178, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FntTRYkYR3CLtDeVWk4N4FZYosZD4Q61FWK8FfDgRtu8D5E", "coldkey": 
-"5EsZo6w3wwzwJspbjK8LWyP8xcZpk34ZXFcDTvMdFJawn4kj", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 179, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GHXTs5nfb62mCR9mpsq6AkRmYELk8if9HFtAazpVAhASmai", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 180, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FEVvma1zDUtczRUCVMPDcbbTvF98Zhx6cQ3GAMdF451EK6w", "coldkey": 
-"5HGiisxhF8fgFBg9b35UMKVRzbd4oMLd7CzdmjcisnwqJCBY", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 181, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5H43o5dtwxQgcMXAuTajbvbVRuackWni2muc93pQivwYTNEa", "coldkey": 
-"5EHLJifGmcFfmHEwpApuhs5Jdwqxe1nVn44kCdsC14fBY5Xt", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 183, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EA4UxGR2sLmkFoRsW6W869mAmZJfh3UWia3szjxN2Ay57ip", "coldkey": 
-"5GiuePhRoVadVd43VG7Ux3CvHRhYV3HyBR3TGvhcRko16w2w", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 184, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EZzgyPVhgndQTxSqy4BqiWCr33MoqoeGGfndiNbZvUgDA84", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 186, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FBrao2SfByUmWGCFEWCQFneE81WYuV4G4U7useh7VrEbQEP", "coldkey": 
-"5DyvTZFqHEEgrv9mCUm7FamYwZTsspQ75GYxLjHcJZYTtbLX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 187, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5H49HvziAN2MBn9PshiDjGvBJAVVv8tZbJdgpr13aMDVd1aX", "coldkey": 
-"5FnAQacZXf3ZdREPVSFcbBmDhZjXokPNg7FTcBJfn5H5SiFh", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 188, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DLUBYXaC6EuCqq76q8ksYyTvyMbSo7yHp2p5HDoVQxzmDMo", "coldkey": 
-"5DAjZs3aaHLj3LaqyszUzxGZ5JN6hv5yn17SxEDXssSzhNZT", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 190, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5ESCbYibGPRoBDe3QcQ3Tinmy1hDRAnDn1yxoma5QWEc3hgQ", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 192, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Eo8wnMsKdpPXAoGvAGdP3uB8LJ1CYT8aVvf3kGWje4uo4dm", "coldkey": 
-"5FbLUREbGkzHRogG2DsH4Jqhdg8nraxUSPVmTe7qe56KwCrg", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 195, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HHBhU88ttniDwXay7eFX5F1EhfqsdR2bch89xw8aJjugwKW", "coldkey": 
-"5HiWGQSRZ64WQhaaiCKPav3NXpdUB5UPKn41GVmL9qYtaizh", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 196, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5ENvNv7aFV5CLczsBR6FCYGgRXd8j81hHdUZ9kgY26Jj9kL2", "coldkey": 
-"5HBQQsSHFaJzUoasZcc7S9XfyLgyD9T42gRCgsHThg6egddh", "identity": "Xvirusman", "claim_type": null,
-"claim_type_subnets": null}, {"uid": 201, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EAEW7vusdiptM3vA8FE76XkGb3ZG5Z4uUvZJp3ScNFDn3hF", "coldkey": 
-"5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 203, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DwUPW5U3vvhhVtNKL5tLdKqXJ2zeoH1ej3RyTk6bngnbUe9", "coldkey": 
-"5FkP5NH4d1g7b7CUmos87xGVuJ2r8DhMN8UXkKQC5MhYbKoh", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 206, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5DcbbaxVLNc4NhhTyF2FRaFRgsrbyUjJDBSm8kzKxEyhPdbX", "coldkey": 
-"5CkKGLBAS7vVghiENBQ7L32jAnGnvfGrXQRFe23B9XTDL528", "identity": "TAO-Investments", "claim_type":
-null, "claim_type_subnets": null}, {"uid": 207, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
-0.0, "dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FHNw8GKSV6RRVKxRZeTmmLbuW8mb4PDHw8AAA8iHMSMyeNL", "coldkey": 
-"5GCZ5ToxjYki6Jt1WV8vbNjTxM4X3qUq99R4ZgyByxTkwbwE", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 208, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EuwLDdbNfre8t6jdQN1PRg6V3XdH8k3a7NrQ8wmrExjCsne", "coldkey": 
-"5EvRUR7h6LRp2B4SY7Yw2wHpLWTtEPZBeRpN4N7uQkFR3Rnz", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 209, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CnoDcx7hR3wJuZx2GhRajpJJFqcffc9ctUNFmt9bhsnyVj7", "coldkey": 
-"5HZ17FswE9RmTPtEtyrbPpUCbqmHyUYXyRAixXZBAk5RSPcK", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 215, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5C854LKXTGncgEzi7XJ1y8bH951rR9zZ9hEoF5LFMLLtKYWw", "coldkey": 
-"5GP4F8XNVdzwKWA7btHYqGnDRnhyzrfrbedupwVuJLk16pwg", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 216, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CcE7ZQnKAEGupvGMB7WQpmr1WfhgPWpE2cvjkFQ6FSKEjrU", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 217, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Grius5wsPKQ6RNUC8vQjSYUSYZWaT4nG7pvCCCF42gspUax", "coldkey": 
-"5Hg7f4AfMcXBi2jZwvE7jm3m8JtfuqFgnVzpLKfFXWQPhSrx", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 224, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Ev4QeFroD9wMPZgJi5vDurqiKBwz7cRJdZJUxWSFiAsFQTg", "coldkey": 
-"5ELPizokKvhweAdonW1EBYLbcPhPa13icFREnoG911RvkTSn", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 229, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5H5qxZpDr8iVhbhTtTCm3wh9dyiRpVSSD9WkMnjJvFB5CsnC", "coldkey": 
-"5CFxpZcKKUgGMdX6n5pR2Csc5Jvb1WueoFDVftmny15yr6DF", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 233, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5CZufCod3iNNfuxhriTRoGUT6jQ249Uvf53dKv9mkHh78cdz", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 234, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EX4PRh95oHAgZZyfHmc6vVqAFM5LLSicWi93vjQKWY3d7ox", "coldkey": 
-"5H6X9HkhTjL8zQBKdUEnVwJH8ZTRyHYtQZqYaHhvwHW3VBh3", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 235, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EWSmWEDZ7poLK1PdufExCUcHi3r93kTB3JtofozU7dga68X", "coldkey": 
-"5FW4NvKapSoPQbAP9fgHFCGPYmTv6unsT8VhyCnyeMNbsHGu", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 236, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GgLExCYpvHc4rzR9wLRBqdkZ4F2y4ccx8frsjqBB96So8HV", "coldkey": 
-"5HopiJohWuLfw5mUe5kL7VLeZJbK33BanxPgV9W4jShQyLH4", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 237, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Hj2E5tMnQ8tV8ExwyeuMZSLRSLg5V37baZduc2CEwMMtZ4C", "coldkey": 
-"5FBrL26fDqvRf3PfBXQKuSgXDrzjSPGMKvtkMdcGRBYJVrQq", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 240, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FUgNFEu9CWqzTC2Mi5S7cw6C465H3Ec1ReyzRPwzCUHBbsU", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 241, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5FJ1FKJ9ppuhDG2kAm7oRAcKUyFKGM4jk4xeiUYDShYECUxY", "coldkey": 
-"5CyYGrb413WvwzdddtTWwPZeVDB8UvfL4cnJCuyi3VMY6Qkg", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 242, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Gbqx7jkUzK3wYUkb9Ds7noz6Ks8in26zRRFv5fwEAN46sSx", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 245, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5GErCsixqzBwUENGdZi1tDQwLKPAJisCttoaHKzVHD5fA39N", "coldkey": 
-"5GTYwdyGjs36SA2wyX7otnxFferNckXzBzfkBWegiQeHvd3h", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 247, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Cnk3YqZ3oYmxpC8yvSYScc2M26fvo3JMEdtDKTb98wbDW9Z", "coldkey": 
-"5H6LxntiomAU1qu6hcW2favDACLChi6LHuNUHzpYH6ktdj13", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 248, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5EUT5rm4aZBvaVZA1RiHCfSDfNLJmDJYJRQERtpfzeio2ZMW", "coldkey": 
-"5G6WaLifYNxtJ5KaSL2wmSQHEWJ6PRcSUsEw1dx1T2UiGtaj", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 250, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5F75fio9SDBiiaiWGn9qiUsZosjenKj3pwZjZU7u4m7ZRR5z", "coldkey": 
-"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 251, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Ew2wfxdWMqMc3ma32bybyV5etKVvd9J4WvTHELSzZKUdd9c", "coldkey": 
-"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 252, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5HBhWGPCjKaSY6q9uTL1zRKjpVJKH8JcJyWvJoy2hDAUU9Jy", "coldkey": 
-"5EyEPxw6WgPgje4ZbcSAJoy7WZLeaSbRbR21aY9tpg451LNa", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}, {"uid": 255, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, 
-"dividends": 0.0, "incentive": 0.0, "locked_perpetual_rao": 0, "locked_decaying_rao": 0, 
-"conviction_alpha_eq_rao": 0, "emissions": 0.0, "hotkey": 
-"5Deu6yhXJELhJw4G2Pbd4aQngVN3FeWwn4EnFiKKzmCVWqiV", "coldkey": 
-"5Dy4X43As577PkJkAXNmRow3vADbruSuvSAiYqqMa12uVJsf", "identity": "~", "claim_type": null, 
-"claim_type_subnets": null}]}
+{"netuid": 46, "name": ": Zipcode", "owner": "5Ft9E2ovN52AVMczVA3713uXmmBPczvUboB4YQpupu3aEYg7", "owner_identity": "Owner46", "rate": 0.011939295, "emission": 0.0, "tao_pool": 15224.509407817, 
+"alpha_pool": 1244885.509693887, "tempo": {"block_since_last_step": 50, "tempo": 360}, "registration_cost": 0.1, "uids": [{"uid": 238, "stake": 1387513.87780446, "alpha_stake": 1130165.923328726, 
+"tao_stake": 257347.954568941, "dividends": 0.3614709697108415, "incentive": 1.0, "emissions": 201.512475138, "hotkey": "5CDnZ6oeCrXKoL2VJQuQFxSfr49yQWz2DvdaYx47hr9QdM6D", "coldkey": 
+"5Ft9E2ovN52AVMczVA3713uXmmBPczvUboB4YQpupu3aEYg7", "identity": "Owner46 (*Owner)"}, {"uid": 246, "stake": 944687.406590966, "alpha_stake": 719698.866727647, "tao_stake": 224988.539944805, 
+"dividends": 0.24634164950026705, "incentive": 0.0, "emissions": 36.461500762, "hotkey": "5E2LP6EnZ54m3wS8s1yPvD5c3xo71kQroBw7aUVK32TKeZ5u", "coldkey": 
+"5GsbTgfvgCH4xdqSkiPb7EaBBFLHjWH5vfEALhJaewSFpZX9", "identity": "tao.bot"}, {"uid": 104, "stake": 758426.873006223, "alpha_stake": 589886.595246054, "tao_stake": 168540.277821211, "dividends": 
+0.19758907454032196, "incentive": 0.0, "emissions": 29.245995455, "hotkey": "5CvXsTmqgbHDFWS73vmbY9J2wMXYTPFiAgKypaXBydAQMvnS", "coldkey": "5CWzmvA17MAMQ9mnAecLxFXS2N8846rz6T7m4QNHyVtJVq4j", 
+"identity": "TAO.com"}, {"uid": 220, "stake": 309183.283338921, "alpha_stake": 190718.197961336, "tao_stake": 118465.085420491, "dividends": 0.08053711757076372, "incentive": 0.0, "emissions": 
+11.922622444, "hotkey": "5D9gz4m6FJRAyiE2Ud4u2RHDffZaoKAQWeE4javYZBmXT1Zp", "coldkey": "5E9fVY1jexCNVMjd2rdBsAxeamFGEMfzHcyTn2fHgdHeYc5p", "identity": "Yuma, a DCG Company"}, {"uid": 95, "stake": 
+237117.81942152, "alpha_stake": 167491.135729643, "tao_stake": 69626.683717095, "dividends": 0.06176852063782712, "incentive": 0.0, "emissions": 9.143510729, "hotkey": 
+"5CdNo8k6UQgW9mGAmEKUGU5MTvazvF96q75KMMJbbCqBsn46", "coldkey": "5DywxdtESjskgPZrDXL86qV44SpPgJuqs9X6noyJJwX9PaSD", "identity": "General Tensor (RoundTable21)"}, {"uid": 138, "stake": 
+76057.733152268, "alpha_stake": 54263.341298569, "tao_stake": 21794.391861593, "dividends": 0.019790951400015258, "incentive": 0.0, "emissions": 2.931360014, "hotkey": 
+"5Ff4i1yuQbLPqoRkxanYAZoRiJcNLaAnDoJWso5UZw92es46", "coldkey": "5FuzgvtfbZWdKSRxyYVPAPYNaNnf9cMnpT7phL3s2T3Kkrzo", "identity": "Rizzo (Insured)"}, {"uid": 232, "stake": 60261.819067863, 
+"alpha_stake": 15186.715729353, "tao_stake": 45075.103354835, "dividends": 0.01568627450980392, "incentive": 0.0, "emissions": 2.323824879, "hotkey": 
+"5Fv5t8frGG3MKtahp4WafKPmT5xZDbqWf8aFZpXyvjHTgzzx", "coldkey": "5EBuUXD6eXSSWVaT1NqaUQoAACUkAmEogzAfPQvDXTEQZ8Ff", "identity": "Open\u03c4ensor Founda\u03c4ion"}, {"uid": 35, "stake": 
+33492.757932047, "alpha_stake": 12798.439430994, "tao_stake": 20694.318508548, "dividends": 0.008712901503013657, "incentive": 0.0, "emissions": 1.291619156, "hotkey": 
+"5FLoWCDovMPeH3Gv4syQSZ8TuKcMv6N27g8diDU8zJSeRv8m", "coldkey": "5EnXts8HKLv1o3qhFBGPaoZt1CjMd2g4RtKDpnp3A44xFCGK", "identity": "~"}, {"uid": 92, "stake": 23314.893195032, "alpha_stake": 
+15387.142088194, "tao_stake": 7927.751109709, "dividends": 0.006073090714885176, "incentive": 0.0, "emissions": 0.899042866, "hotkey": "5G9hfkx9wGB1CLMT9WXkpHSAiYzjZb5o1Boyq4KAdDhjwrc5", 
+"coldkey": "5Ek8i6wDRakJfJPM9wpJLYDE9G9uaqHLdARoewtTiLtbt33f", "identity": "1T1B.AI"}, {"uid": 198, "stake": 7512.740321847, "alpha_stake": 6695.172406381, "tao_stake": 817.567915762, "dividends":
+0.001953154802777142, "incentive": 0.0, "emissions": 0.289700228, "hotkey": "5G3ZwNwrSLQ2yBvyMXPaYeZfvKAmLNrXvfVtW7mi4Nz46MUV", "coldkey": "5CqsgERpW6dJn4AtTkfckcUd7Ab6JNVa2Hb2MhyjApYVXMUV", 
+"identity": "MUV"}, {"uid": 218, "stake": 27.857903278, "alpha_stake": 27.857903278, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5G9kAcwQH3eEjjJQ25pKJQTuDFSLJohpogQ8B9dqxhWfCuzf", "coldkey": "5FHxxe8ZKYaNmGcSLdG5ekxXeZDhQnk9cbpHdsJW8RunGpSs", "identity": "Kraken"}, {"uid": 0, "stake": 20.354082168, "alpha_stake": 
+20.354082168, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Cm4iZoAhANzWya6kzHQJoE6N2HBtVd49FWDWpX1vNq4bTaU", "coldkey": 
+"5GvGKAE4GqMpARqqF3yj5jMY7Jvm4keJ9qr5brMHGi96bXGn", "identity": "~"}, {"uid": 212, "stake": 6.606946292, "alpha_stake": 6.606946292, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5H1TwdPSWU31zEFzagEwtcbEWobemr2vxHTfFQWzYdrnWgsf", "coldkey": "5H9f1Lrdtx5qNp5RxfG5zNuk1a1cKQyqn6bgMchgMbig9JqJ", "identity": "~"}, {"uid": 169, "stake": 6.446802311, 
+"alpha_stake": 6.446802311, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5H6WniawbkJ5nae1cZkxxLhAQuFSHj4AjfCteq99oag6HiVi", "coldkey": 
+"5CHqtDYSUCXN3pncJ3QcBnuPVRinyRHan5aUE4gXGovXvYnF", "identity": "~"}, {"uid": 29, "stake": 6.284412778, "alpha_stake": 6.284412778, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5GsqVBw6mFtDFdvizd5zDFsjh7S254sNgKJy2Tzv79x8fk95", "coldkey": "5Ea5qoHMYytWWEuenhQbekGaWRu2pTr6FSyAD43oU6VQf3Zf", "identity": "~"}, {"uid": 243, "stake": 6.265788723, 
+"alpha_stake": 6.265788723, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5D2sCob3QREChwjD7Ksiew6hkJJffkiK5k8m5NYtD1K6htTK", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 79, "stake": 6.258378127, "alpha_stake": 6.258378127, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5DS4G41Szd9TnxbBEopxYowAD9L1Xcqq1pWkshY7GdiNGi3V", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 140, "stake": 6.258378127, 
+"alpha_stake": 6.258378127, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FPDix84HbU9h3GkKDK1CBmT6ZXmx2aw3hzk8n8yCUucjhcG", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 160, "stake": 6.258378127, "alpha_stake": 6.258378127, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5DNugM6YECur7iMTurzTvg26pLAUvAKNBkPGf5vXaFxytx9Q", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 182, "stake": 6.258378127, 
+"alpha_stake": 6.258378127, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Gaz7pY8q6h6ss1TMhhLw31QN22GZ1jMCsCiXJXfNQqJfQos", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 51, "stake": 6.253958092, "alpha_stake": 6.253958092, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5Esqtok3gb2qqhSNggkHms5EqJRBHDHi8VUCTFXJBSPYrswf", "coldkey": "5GiwoEqfGdFai6LRn1LoNFz1b1uuE5sTooYW2471KwmTzDqe", "identity": "~"}, {"uid": 202, "stake": 6.251808317, 
+"alpha_stake": 6.251808317, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CFNfrCXLQx4CxiCZZLn44k1BVnkhjfJbmnCoN2kFwSim5bz", "coldkey": 
+"5D24k3gFzcFwmx8dZrkWifm1cNPp24tUmeVBLAq8WXZSVvJZ", "identity": "~"}, {"uid": 239, "stake": 6.251808317, "alpha_stake": 6.251808317, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5G6YAVn1jYjn8m2TgFwxdhNgcdfgZWrrPZvch6dooDx6jNJ3", "coldkey": "5FLJraJi6eAwUzepY5pSRgvqrNqTmqLeBduAeETsy2G6dvEm", "identity": "~"}, {"uid": 254, "stake": 6.251808317, 
+"alpha_stake": 6.251808317, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CVNYn5UKjspHYMZbUYApph3H1cNEiXuTKdoqRtL8HNCy2yu", "coldkey": 
+"5Hpx4181ksfA29LbwMznQiKi79C3FVSiRfQxQVhqAJ3d2ggo", "identity": "~"}, {"uid": 213, "stake": 6.247668642, "alpha_stake": 6.247668642, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5CaWPvyvKcF8ULVaTDGs8gHK8RonjrPmieQLqUxSeSuXKoyV", "coldkey": "5EWjCFV7ydFutDX3bqVE78UWsBJxVg7ekhb2zK1mPP9B9R9Q", "identity": "~"}, {"uid": 96, "stake": 6.220287817, 
+"alpha_stake": 6.220287817, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GeLXDbgsNDC6dN1DwvGL7thsNZbsGcuSXwyVbNh1yBfwScF", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 122, "stake": 6.220287817, "alpha_stake": 6.220287817, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5GRC1XhKrSqhyHdmqQFqy2CbNHKgfWTaoG5VE77w25qP43Z4", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 194, "stake": 6.220287817, 
+"alpha_stake": 6.220287817, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FNBaaEuk5XvTVakNHXXwSzKxTCGHfAwWvLMp5fSQPiUwEpc", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 14, "stake": 6.220201519, "alpha_stake": 6.220201519, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5GWMz4UWGXHo7uRtecnA4KWwuj8euZ4P4rvippu7ziahatxz", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 131, "stake": 6.220201519, 
+"alpha_stake": 6.220201519, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DqdarZ5oaTz1iyVn7dTmN2QVKR5JZRXP4ieZP7BUjtX2Rob", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 189, "stake": 6.220201519, "alpha_stake": 6.220201519, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5DHXDPnS8WmvWFJmXaUedjcbCRXiW4kRn2jDTcwZQYmmBvX4", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 100, "stake": 6.208788978, 
+"alpha_stake": 6.208788978, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CngXGbb5w885s8eyc9eanzTXcdhy3qqpq8QTBTKEfQ7E7kz", "coldkey": 
+"5CwhfV2N8g1aUwMXnrrTVaFFbmZLT9jVWwYJgiDuMQnofhdG", "identity": "~"}, {"uid": 177, "stake": 6.208788978, "alpha_stake": 6.208788978, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5FjtZXqt25qNCiw18XqdNHK3kkseDrYZEYddmEnsMsNgAPoi", "coldkey": "5Eeq8EEohz97Qdzkxbf3gkTE2oDAS8j18eYrDRdbHMUVB1JT", "identity": "~"}, {"uid": 37, "stake": 6.174700613, 
+"alpha_stake": 6.174700613, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GL7GNwoqyhigeGpwX9y1TyTW2EuGESBXD5n5mFZGG16qVVp", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 38, "stake": 6.174700613, "alpha_stake": 6.174700613, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5HjU14Ag7rKQ57PBgVb74u9X6ns3XP1QfJkffZXmhcc8oe8K", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 166, "stake": 6.174700613, 
+"alpha_stake": 6.174700613, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CyEsqn8PBBvKHJ1hjiprvj9UpjqC8VyZgS7VtVJDUpvGWMD", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 204, "stake": 6.174700613, "alpha_stake": 6.174700613, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5C83EgpSsE63WV2tpdgsS6p5rYzJTmzFDKqYp6MAAaSvhEsV", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 221, "stake": 6.129982877, 
+"alpha_stake": 6.129982877, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CJDr32n47buys2tXgzifeskJR9u3rBvVmTENVwt6PaAavi2", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 54, "stake": 6.084321303, "alpha_stake": 6.084321303, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5FZ5Fi8S9huF2P6utrpZEo73wdPDLF2T4BapgPJbnG6kbqgQ", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 230, "stake": 6.084321303, 
+"alpha_stake": 6.084321303, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HBfGWmmSpQZgSYrvfdSKJXQGaLj3gnj2NfLt1EEpVzeM81m", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 101, "stake": 6.060877564, "alpha_stake": 6.060877564, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5FKe7rdoCfkMceaqrsctHKm9wXDHfKeBn7zoxLEX5HZtoBmX", "coldkey": "5FFSHA18ADpAWH8LAhY7hEnavambZMyThyMi7bro6xgKWbpL", "identity": "~"}, {"uid": 68, "stake": 6.039603567, 
+"alpha_stake": 6.039603567, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CDNb5MxsmnYMqgBuyWXPXssYCMjxye7RPChJbYn94y14CJb", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 107, "stake": 6.039603567, "alpha_stake": 6.039603567, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5CqTKEGcMLJ4EYdam5JRvTF3fMxQASettvciSaiNaBLYkKEu", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 94, "stake": 5.988837438, 
+"alpha_stake": 5.988837438, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5F6bvbXWy1FXgbGDeQgn7Eza6rCTBnTQK4dad3suTTywkZBg", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 200, "stake": 5.988837438, "alpha_stake": 5.988837438, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5FEk27bZc9cVknrew8jPCLdEPSCMeBmaPn3JQaydWMk2TLES", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 205, "stake": 5.988837438, 
+"alpha_stake": 5.988837438, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CaJ1ytpRgxds2zosECp4K4dqmzw9ka94EmhiDr6Ua8ukmKW", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 219, "stake": 5.988837438, "alpha_stake": 5.988837438, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5FNviNYijQYvXqABaYcTmVHxMTnW4Wuvf9bnsq36HU28MzEs", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 249, "stake": 5.988837438, 
+"alpha_stake": 5.988837438, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GKUTUm31q4sb224rp7Ap51hhrDDRpfDSP6yfK6xUGz57dJF", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 71, "stake": 5.859149335, "alpha_stake": 5.859149335, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5FNp64ecxDC2FiVrhzMySrtr8K7M2HToxqWGVKAqErP2Kq63", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 197, "stake": 5.813355163, 
+"alpha_stake": 5.813355163, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5H9h7FpdVMCt5zMsAdFPzrGruLSxcuGEG8D2a9XiMN4XavQC", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 72, "stake": 5.276037175, "alpha_stake": 5.276037175, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5DNoBwWj1zMGmkpZ2UBBuxYDSVS2QGnDJ5JknPhmJ1Ux5mvC", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 64, "stake": 5.271017297, 
+"alpha_stake": 5.271017297, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FZ98fFa2nikzvsTWNiiSScykgEbnsPjfYRkaRVgXBFnihSU", "coldkey": 
+"5CFgo4GKyWshvu4bitenZ63YvwiCUGJ11fGi4d49nkXqL9P3", "identity": "~"}, {"uid": 74, "stake": 4.798902546, "alpha_stake": 4.798902546, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5H6r2Mj8xqMiSng5p9V6PGXQy68prmm4uhwruBDNnh2ZkqoX", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 103, "stake": 4.760725938, 
+"alpha_stake": 4.760725938, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DFC1aNnXzZNZouKWKquuk9uGPav6Bj8Zg8651CzokqLeqyB", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 17, "stake": 4.358743442, "alpha_stake": 4.358743442, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5Fe31G3mDFU5jrb3k9u6PxECsoyuU5WAwiJTHn5Jpp4K5eMo", "coldkey": "5Ev5twjxsqX4W1sASqKNXuBwEfaWHnedpQ1ckN3QRMPnaDm4", "identity": "~"}, {"uid": 58, "stake": 4.234025617, 
+"alpha_stake": 4.234025617, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GxQKn19hq7wReZ9hgwB4NPFJUATtZJkQA6wt2NYUAwCoiuD", "coldkey": 
+"5DoccbbviQFWLDT7G4wTUoMpx7vSWyGVLnC3xcVUFBEwFiGY", "identity": "~"}, {"uid": 199, "stake": 4.062034483, "alpha_stake": 4.062034483, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5E9gLTBb2sbDSHo67K3jp4MuTqMnFU3yt6k5yzUDy7G55uWJ", "coldkey": "5FtHR2tavYjgWxr1tgHgXvRWFjeBuTmRNw6TXSUJnEMmUsgt", "identity": "~"}, {"uid": 226, "stake": 3.94784259, 
+"alpha_stake": 3.94784259, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HKky3fncixyUREx18jMueaJt8cFNxy17ESMYTm7fzKQdFYr", "coldkey": 
+"5EWaT3FSTn5oE9QRXSCgaDfqHAFziazKnkfJbKtu1pNLvBdQ", "identity": "~"}, {"uid": 77, "stake": 3.439269188, "alpha_stake": 3.439269188, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5FqFwQ3XriJSFHf52YyUUPWLXu24zzoTk9R1uV3jVfGWAxuy", "coldkey": "5FKzwwk2jbLL7jFjmkhUvcHZTtUqNQyG9LaTcnDf5FjwimGp", "identity": "~"}, {"uid": 1, "stake": 3.396254261, 
+"alpha_stake": 3.396254261, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HTrRiQNkPBLUDCiCxaaN6noutNEmf11sk7HmPDxz2JW6PmW", "coldkey": 
+"5CqSp5CJuECb6MxbDZpZcBisDHdGKzVJ6G4KoSQ3xFcTqNWT", "identity": "~"}, {"uid": 211, "stake": 3.396254261, "alpha_stake": 3.396254261, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5CGRjJu7Psq5o9bHaidxbSjtcoa6ArkFbXHDLpCC4Febqf4s", "coldkey": "5CWyXCRmMUV1PkL8niQiCqwSnoQSjSQZ5bhcQVf7CzMs5c1g", "identity": "~"}, {"uid": 223, "stake": 3.396254261, 
+"alpha_stake": 3.396254261, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5E9xAHGF3nCnSHW9uePJWJFWmp3T2N96PXHxYZi7DWxuhy8U", "coldkey": 
+"5CfG73sr8ayeYmae8iT3ZDvxV4fj76XLUfcN3X7d58gCehgc", "identity": "~"}, {"uid": 75, "stake": 3.350667057, "alpha_stake": 3.350667057, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5H15k6NohoJ4SuX4pXCB1cs1wGBUgKn3tWNeFykZre2oomBP", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 65, "stake": 3.163829382, 
+"alpha_stake": 3.163829382, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FBpJzvN24NJLKXvLJ9hXTB6fHa5sdfqUvYi7KUMD2XxhYdS", "coldkey": 
+"5CSMZAuE62AQTNCjVCQyEgiqv9xPV9FNoCMYVTgxhNqfADQK", "identity": "~"}, {"uid": 119, "stake": 3.02815912, "alpha_stake": 3.02815912, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5GCFRmqMQeAkSPdgWyNGf3wK2MNn73VfFp4MTAzn9g8ymadn", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 174, "stake": 2.982146868, 
+"alpha_stake": 2.982146868, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Gnau9RoErpSm3djzR5VXU5kg9tTjjvNZ4AFvAW7Us5HjBxu", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 191, "stake": 2.823962324, "alpha_stake": 2.823962324, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5FeeHhmNqkBtkcSeJ6CpaQMdmYMHDXyoQvtZUWy218kwqMAo", "coldkey": "5CLgPVao7coftrufH4a5thnr6HJJAwYhgkWus5j4MUPtPmvp", "identity": "~"}, {"uid": 225, "stake": 2.712090311, 
+"alpha_stake": 2.712090311, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HCKcfvDoxw3veVpEuCzyhC6ngmR5vGTZsKconLtMozLCrwe", "coldkey": 
+"5EHfnX9HWSJcCeP8okFK8cFU4NTVEe2E2eALyeF25phiRkQP", "identity": "~"}, {"uid": 120, "stake": 2.657751897, "alpha_stake": 2.657751897, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5CLVm3rZLRJVNa9cdvBJ3SYVdAwDfMEMeJ4wYxT2F4qunQyQ", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 228, "stake": 2.329803522, 
+"alpha_stake": 2.329803522, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GC1w8KaPtdb1Jty9gCaPAT9srr1fF3qF4bMwrYNT3DGDz2V", "coldkey": 
+"5FBrL26fDqvRf3PfBXQKuSgXDrzjSPGMKvtkMdcGRBYJVrQq", "identity": "~"}, {"uid": 130, "stake": 2.005785908, "alpha_stake": 2.005785908, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5HmBZviKUkN2D9gS6d2YPHKWfSSsoGEos19ZCFhoniUNBySk", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 222, "stake": 1.751415558, 
+"alpha_stake": 1.751415558, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FjT66FkQd46FPCB9qYwSxfdYBr24YEcQa3gNEH7RcUxf3py", "coldkey": 
+"5DrCZjgV9XQ6CU7Le1rcMxRjT3hanYKg472CjRBjaEDkGvKn", "identity": "~"}, {"uid": 5, "stake": 1.740930607, "alpha_stake": 1.740930607, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5DCtL1T5EgbhgWDa6sJd5W2MehwokeX3jrvAwb7FJ1i7o3UG", "coldkey": "5Eo7593PusJiaLHxtqMGescMrVHPwnrU7JgfkX4ZeooMZ8AX", "identity": "~"}, {"uid": 56, "stake": 1.705958482, 
+"alpha_stake": 1.705958482, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CzPVhEvaiKh8ZGL87qdu4nf3GR1fzerDBh5kBQTr8g4aXHS", "coldkey": 
+"5DJKqRn4Y8Kd5q1TReq2beZpHk4KqRWbX9YRnwP1qdYcqKQj", "identity": "~"}, {"uid": 57, "stake": 1.705958482, "alpha_stake": 1.705958482, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5DfUQTLkb9bmrL43gC6pLMgmJnLjp9r98EA3kmtbTYoFXS6L", "coldkey": "5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~"}, {"uid": 49, "stake": 1.699384134, 
+"alpha_stake": 1.699384134, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HLChHuFM4i6xSPF1VgWiWvsJTmcL955mVZTMppq8TyTXQz1", "coldkey": 
+"5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~"}, {"uid": 231, "stake": 1.699384134, "alpha_stake": 1.699384134, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5FBsNCW3DQ955CyHymdeW5HrUepV3TFCBHas8McY872HdZ3j", "coldkey": "5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~"}, {"uid": 91, "stake": 1.662121923, 
+"alpha_stake": 1.662121923, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HgXFoXwBqiy3NqYNZkJRZmBdyCAoHYnB6yq9fNHuB2QSti4", "coldkey": 
+"5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~"}, {"uid": 73, "stake": 1.496351727, "alpha_stake": 1.496351727, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5CuButPSZNW1SaUsymeyc6swRPWSYMNphQvchXNiaQmpBDtb", "coldkey": "5F7eZGCiSH5Yt8RsCZJQWrQkzkEVujXXe5f91rCVhfz7pUdc", "identity": "~"}, {"uid": 99, "stake": 1.496152732, 
+"alpha_stake": 1.496152732, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HnEX5biNsqkkJSGZHctPCS7EDer4zvWyfqJtcjwH86CA6mT", "coldkey": 
+"5DrBu7iNH9xpNdbxitfa9KqAGipjaZSiBWL8LrEB6LEUxAw6", "identity": "~"}, {"uid": 88, "stake": 1.421394349, "alpha_stake": 1.421394349, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5G6kifSsQLVRMw6NsQK7UBPoGLRH56WnXTG9P88ezdtxhpyE", "coldkey": "5CFFZ7SEniYEPJmnzdSHhfRhhckz3tXFonRcYEnDeyHQYBqb", "identity": "~"}, {"uid": 193, "stake": 1.421394349, 
+"alpha_stake": 1.421394349, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DfBSHrGUwRvPQ45sWkf8PNhMRKjvhv7NN7qzGpwsNrd39nY", "coldkey": 
+"5CFFZ7SEniYEPJmnzdSHhfRhhckz3tXFonRcYEnDeyHQYBqb", "identity": "~"}, {"uid": 67, "stake": 1.363768548, "alpha_stake": 1.363768548, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5DRVjJ3Wh6XFqETCNWhwdxJSQDHD5jhLRsmtQtduzVEtzeJo", "coldkey": "5HpuBXpsd9jgFnRTRrbrkSm6XVXB71TwwNZ3pdXKgF5My9V8", "identity": "~"}, {"uid": 16, "stake": 1.224710825, 
+"alpha_stake": 1.224710825, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5EUCGjKpiZ3XnCYeQqn2B2xdkjA8paMwt7QvykmgwsacnLJ7", "coldkey": 
+"5CXECeEkeyQYuaAa67DTN9BFuxeN4ZTBeJN9Zi4NaaDskhFS", "identity": "~"}, {"uid": 176, "stake": 0.895633488, "alpha_stake": 0.895633488, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5DULbfJW2m9UjSAoKDWQTtfE18trYbL5zdKGEWXGzXz9BKMm", "coldkey": "5Fgz7uBSvdrZ4tsKi3rY5raFqJ6h9VrLgVrHZCDznVPLfvmK", "identity": "~"}, {"uid": 18, "stake": 0.828422099, 
+"alpha_stake": 0.828422099, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FRP87oFghmT93fwDPxRaPV1XpzZ8WyNMSdQujMHpkSXaAxR", "coldkey": 
+"5FZFUEGbTM5fCzN95jxBiD2DBDTiHsHL63KL1QkcuzYdX9ng", "identity": "~"}, {"uid": 151, "stake": 0.795153414, "alpha_stake": 0.795153414, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5DiLGQV3EsA8A5gJP5JSjgBt3PVrXF2w9zbFyVUwkcYtYzCG", "coldkey": "5CoayL9qsEkPBp8fizmth2yLVB994S2u3m6Hw61LtMFJBoFH", "identity": "~"}, {"uid": 159, "stake": 0.744430138, 
+"alpha_stake": 0.744430138, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DkM4QaeokFfse1gENWWBktpzCLhahJb6DLtdKTgWDELtahF", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 244, "stake": 0.678016497, "alpha_stake": 0.678016497, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5EHCeMiEiDFgxSCHKM2wqGBsq89t2m7T9CRAKMbUL6AEVGQc", "coldkey": "5EeNdS7biA4u9JkDjC8a5HM4n6wzUoTUY8NSqdBqkYdeCA3k", "identity": "~"}, {"uid": 82, "stake": 0.60777228, 
+"alpha_stake": 0.60777228, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HCF5QunjrSE3nqR37xATHUDXYeBS1mAR9QdtzroZLJMeeTu", "coldkey": 
+"5GLQRMbomh8BqJhSYfeCipCB69finqsWrtwMvXMwZhvHXvdZ", "identity": "~"}, {"uid": 53, "stake": 0.491163815, "alpha_stake": 0.491163815, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5HKX22yWePufTy49kXX3PgYFThAoN6SE7LvqJ1i5EFBFk1Ef", "coldkey": "5HZ17FswE9RmTPtEtyrbPpUCbqmHyUYXyRAixXZBAk5RSPcK", "identity": "~"}, {"uid": 123, "stake": 0.491163815, 
+"alpha_stake": 0.491163815, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5ELCnLus881xmZmA35Ynnec1TfrQsBt41oYGLuDVphaqsEVH", "coldkey": 
+"5HZ17FswE9RmTPtEtyrbPpUCbqmHyUYXyRAixXZBAk5RSPcK", "identity": "~"}, {"uid": 185, "stake": 0.491163815, "alpha_stake": 0.491163815, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5GqKqvHNARmTyuUqKUFnTeueTryuUDqUaQngG4v4kmLmMwuT", "coldkey": "5HZ17FswE9RmTPtEtyrbPpUCbqmHyUYXyRAixXZBAk5RSPcK", "identity": "~"}, {"uid": 227, "stake": 0.491163815, 
+"alpha_stake": 0.491163815, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CCvQf5kxJ8fxi6Sy3tvkTBb47Q6tZA11yb6ae5QJ8AyRcfG", "coldkey": 
+"5HZ17FswE9RmTPtEtyrbPpUCbqmHyUYXyRAixXZBAk5RSPcK", "identity": "~"}, {"uid": 25, "stake": 0.486232999, "alpha_stake": 0.486232999, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5DytZi763sJVX7HuPVxrKRX8N7bciiTP13azwU9zr86rHUki", "coldkey": "5Gb7e4B4kHWvCMzuZGvj3wNTsJ3iJ8ueKCKPcvytJtHPCiAA", "identity": "~"}, {"uid": 134, "stake": 0.482271033, 
+"alpha_stake": 0.482271033, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Cesk8rxDRax8KW8Weu1xnYonHyBHyYnoVd3j8Uf74jAhGLw", "coldkey": 
+"5H6NYFkbr2YqxKmxjvm7AmmgFMFGpZJ1tVdLEPPgQNDdM33b", "identity": "~"}, {"uid": 40, "stake": 0.461341896, "alpha_stake": 0.461341896, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5GTTt7gWSeJSujmMkCC57NPxWhfbyCSbMRmwSe6o4xqKMgWv", "coldkey": "5EPT23AASBX6DUzBGVL84MwNGP22rKPaUGawEeVvt3AMrCpu", "identity": "~"}, {"uid": 214, "stake": 0.411631456, 
+"alpha_stake": 0.411631456, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5C7MTn3nvJSxVU61QsJY9De5ZnJECU5VFnvzmAHC13XPdxcx", "coldkey": 
+"5C5DzUY1E2UcQ2nb2S3QGYzenLyJYtAhJx1fG7NUsC8biPXs", "identity": "~"}, {"uid": 22, "stake": 0.222981875, "alpha_stake": 0.222981875, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"emissions": 0.0, "hotkey": "5EPjHRJAGYNanJkfGeELv8JcanReQUpXneRjevpT1oS6etS8", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 210, "stake": 8.835e-05, 
+"alpha_stake": 8.835e-05, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Fumz6iUEJ5Jmn8a3uR4GcjGdDtQ3FkWGphWukKxKg8WLGbT", "coldkey": 
+"5DyvTZFqHEEgrv9mCUm7FamYwZTsspQ75GYxLjHcJZYTtbLX", "identity": "~"}, {"uid": 47, "stake": 6.661e-05, "alpha_stake": 6.661e-05, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5CqrqtVLsg26r9CVwaqNE8CtfNdyqWcqhAjqu8hNTXVDaup3", "coldkey": "5DyvTZFqHEEgrv9mCUm7FamYwZTsspQ75GYxLjHcJZYTtbLX", "identity": "~"}, {"uid": 62, "stake": 5.2066e-05, "alpha_stake": 
+5.2066e-05, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FEQRoJfkgePQn4E6sMBUPJSebtatou7nhPDuKMcpSp9Y8U8", "coldkey": 
+"5DyvTZFqHEEgrv9mCUm7FamYwZTsspQ75GYxLjHcJZYTtbLX", "identity": "~"}, {"uid": 253, "stake": 1e-09, "alpha_stake": 1e-09, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5DJEauWy6MiyipFPwHgAxLWdhRQ2kSExVGgRQ5VUxjnYGN7u", "coldkey": "5DLi1VsZSbPCaxdxvuEceoxA1MebRxh6SKUr89vWCmHkuyGs", "identity": "Blackwhale"}, {"uid": 2, "stake": 0.0, "alpha_stake": 0.0,
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5G72X4kHGLdFhdS2T59zpiUKWf63jsPzjdwqvnfWKUvCCEq8", "coldkey": "5FbLUREbGkzHRogG2DsH4Jqhdg8nraxUSPVmTe7qe56KwCrg",
+"identity": "~"}, {"uid": 3, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DJjGsUzKJWFUEuPcFNv3zD4gZ6kHzbCEZkmRf8cyvdVa97N",
+"coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 4, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5Hq1mjcyARzwHzYL5vCiXxrS6eHSDWLenB4FevocMqzxL3CD", "coldkey": "5Dy4X43As577PkJkAXNmRow3vADbruSuvSAiYqqMa12uVJsf", "identity": "~"}, {"uid": 6, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GCaY9GBk4nJQ7XV7SozVSbAyp9XHmqwPYTaKK7sa2pMqwX3", "coldkey": "5FLXJDwrLF4J3dKSwHJN1YKNWQin4zAsb5xzZ14p8a7czJBd",
+"identity": "Double_Builder"}, {"uid": 7, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5EAJUp7DdD18Mi24bRKJiahhjjqUUHCfGVbQr7QhsL4iFL2g", "coldkey": "5HBQQsSHFaJzUoasZcc7S9XfyLgyD9T42gRCgsHThg6egddh", "identity": "Xvirusman"}, {"uid": 8, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Ew98R7XAX8wqT1NuFc1uZNNeLZf9UEBd7gzmtZvHtLy868K", "coldkey": "5F9DkSegTMGxmaqryjmqBpUUaBJspJbUcUjWWHBFQ7WJvbTL",
+"identity": "~"}, {"uid": 9, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Fv4t1Gmrs9EcHU1D8eaVmUdCqD2ymwBgtAC3Xn1y2fgNa59",
+"coldkey": "5CXncvfTk1829mtk3fNBJgSXxMLio9ihMnimyKjA1kJav2DU", "identity": "~"}, {"uid": 10, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5Dhw19aLFwmZJf8H5kDzkGv3Kv2m1fVfnCqHvYueBzV8Eo9H", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 11, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Guv8WaCUGrdg3Rjau8rP41gHDt51xKKnHRByxwBFsz2ATP1", "coldkey": "5H1XrcPHRahzB4uDniQTUpk3fWoCAYyGZpeun9NgttFW9CML",
+"identity": "~"}, {"uid": 12, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5Djt5gZQPvF7gvG5ZpxKLrAU4XN22SbPhMXFeiioMFEnz1yd", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 13, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0,
+"dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DedUd1skHSzBV7S8grXYtFj4tkheX7xVYzAsJXZiBbXasjU", "coldkey": "5GMqoRTPfDyJUnnwEhk1wZAQLZioXEG6s61YBNHGdndDZtHa", "identity": "~"},
+{"uid": 15, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Dqp8yzFXPe3cdZdVTNqzHysqmoy1rVySFwQnGFxxD6BRLrf", "coldkey": 
+"5CXncvfTk1829mtk3fNBJgSXxMLio9ihMnimyKjA1kJav2DU", "identity": "~"}, {"uid": 19, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5CJqggPgheMLkjXQrcmMNart88Cr521oxG1vRhZJq7hzakQX", "coldkey": "5D2ujDScuKwm5znbJsCwQUfSqgyeoHUyxERYTQJ2NTf6VCpT", "identity": "~"}, {"uid": 20, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CLed5rt85n6KnngW2wZ95Ptnbdoh1aLjYiEbKmDb5xTWrzt", "coldkey": "5C5TTzoTS31XCUtX624vDbtfKGpEucnmFHbFZvrBcftcyUv6",
+"identity": "~"}, {"uid": 21, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5Febcz2K1a6XiB7KPP8aQncKp28qu8TQNV2f7jfXgSCygSgC", "coldkey": "5HeWJpESZ5VDZiGF2XEW8CYpPWt7teoLSWsoysrZ9EUGNoJo", "identity": "~"}, {"uid": 23, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0,
+"dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GsiH4KLP6dugTSMZxMy7y6dWh4gTHWTVAxFDwkA2K4cB4fa", "coldkey": "5Hg7f4AfMcXBi2jZwvE7jm3m8JtfuqFgnVzpLKfFXWQPhSrx", "identity": "~"},
+{"uid": 24, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Cd2zZyMQnvpRaYEHCoCZwYE8g2rBD7quEbwPLyEAXzUrvFF", "coldkey": 
+"5HBQQsSHFaJzUoasZcc7S9XfyLgyD9T42gRCgsHThg6egddh", "identity": "Xvirusman"}, {"uid": 26, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5CiBHq3EtwfDe4WskMTrQ3YBgxGSLNTJQE3ZEgeFZ2ySmkPv", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 27, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GRYqnQAoMrCiEAcRhkWvfYMtWkDByptzWEEKkrKcve69hVe", "coldkey": "5CXncvfTk1829mtk3fNBJgSXxMLio9ihMnimyKjA1kJav2DU",
+"identity": "~"}, {"uid": 28, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5FTqn3qo4RbSzHoTczq91SzRvTFLViNossxUwUWsZqupt7Gj", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 30, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0,
+"dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GZREAWaouBcJmxhn6zxE1SF6LD2Z7Rk9C2DcJGCQW4cthrk", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"},
+{"uid": 31, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CPQs81c9Xx8naRSSxmcoMytZHbd1akHN7VKeLVRvEu9jq2y", "coldkey": 
+"5HWTXJJMFDK36pqxKMPAJCCt5mAzkwYvx85Ehii73GtDVSEF", "identity": "~"}, {"uid": 32, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5Cr7aa3R2KaV18f9VmbiuLyXtQhyRue6iN7nbpVmmuCXHXrF", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 33, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5E7xJwpFurAA5UEBS6JJqjngPxfpJRntqCsfZeQsaALh9X7p", "coldkey": "5GP4F8XNVdzwKWA7btHYqGnDRnhyzrfrbedupwVuJLk16pwg",
+"identity": "~"}, {"uid": 34, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5CyQkXRQmj6KnhwzzZirR1siLfLKWDrwmV9Gzu7NBBPc27K6", "coldkey": "5FLXJDwrLF4J3dKSwHJN1YKNWQin4zAsb5xzZ14p8a7czJBd", "identity": "Double_Builder"}, {"uid": 36, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DaAhzXNFp2dWXBQQSW7WTZptFV6PYe2RFrcyyrVMzDQb2mS", "coldkey": "5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX",
+"identity": "~"}, {"uid": 39, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5GxrtMkuHM1sdarQnGkscxup4sAcxLaipDF7fkHhwDqr2TFo", "coldkey": "5FxV9u27cBjiJgvoQhvmZoR53WL3WuB6WBor5jkQqMr7pjAS", "identity": "~"}, {"uid": 41, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0,
+"dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CY1R5FsDk3yEv9ar5togemrEQsTYTXX86PgP6E2Wh8TueME", "coldkey": "5CtF4NTSM4koUvfrj4nsRhmLjfzY1MYDE6gkZT7D6QrtJxER", "identity": "~"},
+{"uid": 42, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Gmq672K6bAkJWYco2x987kRoYnJ4Yf7NB1yMk5SHdBUj8GX", "coldkey": 
+"5HpzTFHAKeGVSztZRTdTshqMYfrTuSfdfdNjS8BTtVfm3Crh", "identity": "~"}, {"uid": 43, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5FbFhVQSwWrfKDPRV8cBuWfvQshV4sgwX9BQ1CG5erevn56j", "coldkey": "5EtJWiPVRNFULwsBHVVQR2Ea9ApWgGAV6MLbqH3F6CK1StWx", "identity": "Abs"}, {"uid": 44, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FWonrmDciPZTHr1kC2DwUb2M6GinX1jFrmskZu2jM3Gc1Ta", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe",
+"identity": "~"}, {"uid": 45, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5FyTSkwKnQ968xZwC8XBBKDYzoFq9vKUFhs1VPFtpNtjmSPA", "coldkey": "5Hg7f4AfMcXBi2jZwvE7jm3m8JtfuqFgnVzpLKfFXWQPhSrx", "identity": "~"}, {"uid": 46, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0,
+"dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HeCgMdDCLSxkT8jLq7ofkBVoXkzqfUKby2MWtitkKkNQ7LS", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"},
+{"uid": 48, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5E515DHkkhudZqVahpDAaTm8DfvA9igcAVrfYYPpYGWGQabh", "coldkey": 
+"5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 50, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5CiSYsg27Ssh3VPvFbVuQNvQz7jSLuGBXhzPeRCxoarkQwA8", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 52, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5ExkzGr6LdYx1MeXnAiw2wCsp33pYPjdCEN3aesG1Y8dXP8E", "coldkey": "5GbZvz4xiR5Z7J7gPbMFHaJAHLK2NULkrd2bG2Rm3y9Z7tcC",
+"identity": "~"}, {"uid": 55, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5DvrGKA3MmM4Ys5EowsuHHr5yM7BUzQpwtQ5PU7chYxzXYs7", "coldkey": "5CcBsoStqyGt2eYoDy53k888vDEfSSQs6W5o3Lb1JWcSHi5x", "identity": "~"}, {"uid": 59, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0,
+"dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FbThBTpYSCBxgz7PtPhyHvbEAhRFT92G8F3g4bVKczqLQCR", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"},
+{"uid": 60, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Fpy39h3qbac4mKAQKiT5JkCbJxrPjRhrrK3McdNgEmQP8Kc", "coldkey": 
+"5Dy4X43As577PkJkAXNmRow3vADbruSuvSAiYqqMa12uVJsf", "identity": "~"}, {"uid": 61, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5Fmo7ZPUZZAhK7CRpa76w9vGkXQxW6Cx1cmBeGkSThmXUfAa", "coldkey": "5EREdiYaaWYHHWBRfTSHK3ivhTD5kpApy2co44xYJFH1cWre", "identity": "~"}, {"uid": 63, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5G1mBgazC6QmguxaQJaVZE6b28vN6TG7fTHZFTxv5nAvuFuB", "coldkey": "5GQn2UdccoLh5eUQCroTqfUmZYec9XCerVkG88K6vmqMA4G3",
+"identity": "~"}, {"uid": 66, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5CnywELXcGpt4NnHiarcawmrQhgNqeCKfZ7BGb6pkBmQuHQM", "coldkey": "5GgwhQ6EZ4w16CeAEvuSMrQSxxdVptbyHzHoQsertXVPMJfh", "identity": "~"}, {"uid": 69, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0,
+"dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DUf1Aj4MVuqQCMUQvHw8LxAC5nJRcdpLLk6oyu4SdFPJPKT", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"},
+{"uid": 70, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5ENvWmpoHvcR1E4W394N35GjSQ4Ax7PygcQpQmC11QXXm5zJ", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 76, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5DUdsErSFHXVi8A6rR1B7JSaiwFCEbcQT1apqnTeq9HjAGrp", "coldkey": "5CfFrWyRyzaPSNiXoHAon25zPFnGghDDAhUobWHJgByfSyH4", "identity": "~"}, {"uid": 78, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DqhkpbknfSb1kXECUEZNgutzQVkNNRCdjGya8ThRxZphhGm", "coldkey": "5DqgBJDVdsqVNseBWFoLN7mqkmtaP6PGmYYJ4zjFFgsmxb58",
+"identity": "~"}, {"uid": 80, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5EhLrBMSJVixarnfyFgfNHn7iGR4EggSc2TTkEDp86u41Zqr", "coldkey": "5EZnYFyxqBgT6CQd5deAWecQBecbEUio2KEZLFpBmCdsQtNF", "identity": "~"}, {"uid": 81, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0,
+"dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Hmc2u9NkEGwrtnimDdMkP6akPXnBMJqDrtxz3ttwQM2puFR", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"},
+{"uid": 83, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FERbp6pUaUWbuxjo24ttTpe4iq7kwECtJckK4vHfKS2SqUd", "coldkey": 
+"5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 84, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5E1fvj7Hf9wV7cwwqUNMY1CoRQyz5jrJFXrDme4oCdayhoV4", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 85, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HWGKgbRfvQaPkPGjPYRKjGc2kh9sxasKg3uW8RqzNQDAemx", "coldkey": "5G1PFy2sjRXTr8kNYUEtXD34hdRYordq4TmNdz4vUqWWmKBD",
+"identity": "~"}, {"uid": 86, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5HafDxAyu9C4xNdoMKGKZUVsq5MfiNTQWTca2WndPaCXRvKj", "coldkey": "5HGVmZQZhKCJY4LkxRXqRSQUNQJVvU7iasdr3CejvLZFpgWh", "identity": "~"}, {"uid": 87, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0,
+"dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HGsaBEe6uo3ptMswxaKRmXMxsYCb2ewBh3EQHsU74cKQ1ES", "coldkey": "5GBhKr6hXptzz6dUhti8mbS6NdjKSv9Pe9qoSAt6RYnMEA4c", "identity": "~"},
+{"uid": 89, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CyfBhvvBGVm78UEdjGvdHkB93Upc2D8ZRNx9Xym3PCc3DHK", "coldkey": 
+"5FkP5NH4d1g7b7CUmos87xGVuJ2r8DhMN8UXkKQC5MhYbKoh", "identity": "~"}, {"uid": 90, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5DFV2cFp6o9FKoe6D3RBuJR6oMhevxV2N68F2YtFJaMmZFrK", "coldkey": "5HWWgnhMJNVNep5FWsSZ8aPgUVP5SyfrDdAAt5U2HFxETZRj", "identity": "~"}, {"uid": 93, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5EHw1tiSQ5yqemCfQNPoNNEfb6MAeJXTz1G3WViqb9jPr6fu", "coldkey": "5HeWJpESZ5VDZiGF2XEW8CYpPWt7teoLSWsoysrZ9EUGNoJo",
+"identity": "~"}, {"uid": 97, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5Gry3kCNqySQonGieNNjJBXEAVNDSea7m7sMEd8ZxkDzaAGG", "coldkey": "5GP4F8XNVdzwKWA7btHYqGnDRnhyzrfrbedupwVuJLk16pwg", "identity": "~"}, {"uid": 98, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0,
+"dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5EfRwWtSHs254PN2qMoYqJ8RzBiyY9syiaaEEztU82PUfMkx", "coldkey": "5EsZo6w3wwzwJspbjK8LWyP8xcZpk34ZXFcDTvMdFJawn4kj", "identity": "~"},
+{"uid": 102, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HgxvS1juJPVu9M8mCWpPXyr1s5ygsKYqgKmsfg5b5H62LcC", "coldkey": 
+"5GZUkmzZxC49wQops8BDjLuCdhv5jw7ByBnbgyTSsHBcaUT9", "identity": "~"}, {"uid": 105, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5G3jqdLQX741wiw5AWsN9b61s3GpLn6EDa4mbooC6iP2wDT9", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 106, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5H8SmfUNNKhHtcLyXXva4hvBjqMY3i1XsUHEsp1YRymFYJiM", "coldkey": "5CUqjfHRZJXdy5eLtiBC4RbumU5zkc6pznGpBQXR26PTbdjJ",
+"identity": "~"}, {"uid": 108, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5GdomxEXGLwZS9ic4BwBHZdbfMNy8vNbWg3Bdze3JdFp6J5E", "coldkey": "5CXncvfTk1829mtk3fNBJgSXxMLio9ihMnimyKjA1kJav2DU", "identity": "~"}, {"uid": 109, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DXTov1hfL4g6UQ2EwUK2f8ddoYaw4EVnFJKzdK1ujxfH6fc", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": 
+"~"}, {"uid": 110, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GKMzy5VGRQ6A5iUfAFhyHpxZjogcdVBQ71boCBfgyEsyemV", 
+"coldkey": "5FkP5NH4d1g7b7CUmos87xGVuJ2r8DhMN8UXkKQC5MhYbKoh", "identity": "~"}, {"uid": 111, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5Djzw7e8BvybLFfrLDE1NxtHrFzgxCVVgnJvXBJibkbNs7S1", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 112, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HdMUG6iDGu4jG4qiKxFMs2dEGYoo7KNE6SZBzV7RxorGZC1", "coldkey": "5FW4NvKapSoPQbAP9fgHFCGPYmTv6unsT8VhyCnyeMNbsHGu",
+"identity": "~"}, {"uid": 113, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5D4SYeTwRZtYEpzNLkBEA6FmQhBcXGHbdHFAd3US7A1a1u2M", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 114, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FxptRf4VWzrntQoNQgtJrTpXgJocQARfB4taJ832FVHFQro", "coldkey": "5E9dFYKF3dXz8LfXNtf7Qje3zM4sDSuK8X9Zo5C6sjzVKfLT", "identity": 
+"~"}, {"uid": 115, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HYJ2pgRBqwjGSfHhgWvju3JjN5YxxXoJghDhoHMysBCRZBo", 
+"coldkey": "5E6rcXT3PBshuKtWD3uVJKV1kiFs9jmsMop277TRZz4XaUkz", "identity": "~"}, {"uid": 116, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5HpjWZtDMzD85HZtstqD4Rsmv1ASF9r984ps2f8a3niHgL4A", "coldkey": "5FLXJDwrLF4J3dKSwHJN1YKNWQin4zAsb5xzZ14p8a7czJBd", "identity": "Double_Builder"}, {"uid": 117, "stake": 0.0, 
+"alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5F7M6PWTVXb9GwR3qtEVPfnpGBoUhXgQvwuzp6CrLTySZUVD", "coldkey": 
+"5EPRPsyQNmj6B4eyXHiwC4C98o6MBV4XHZEagCLihTtJu4xM", "identity": "~"}, {"uid": 118, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, 
+"hotkey": "5GKUk1vJY5s7jHCFYpM74Lq6QgzhvSgNK3GyQCoo38L34vAm", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 121, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Fnx48i6A6KtN9a8pAxQDZDQo3Z49JeviaLkcJUbLB9yCM4Q", "coldkey": "5GsYsowPkHTtENCLYs1KHGGssRvZ5bWavsSa6fp4jpRzePqk",
+"identity": "~"}, {"uid": 124, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5CoZrvwZGwU8QJHazmoX12h2Hdw8JaoCL529u3b7RUFNDwRT", "coldkey": "5Gb7e4B4kHWvCMzuZGvj3wNTsJ3iJ8ueKCKPcvytJtHPCiAA", "identity": "~"}, {"uid": 125, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5D7nz5aUDiELUbEFh9PRpyJJKQU8gJ6vWxYgSakaMhDd7KXv", "coldkey": "5CvbexgEPPxthEWzGHniris4tCRJNirxbsXsapcipH9skhox", "identity": 
+"~"}, {"uid": 126, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FmrcENRSaC264Sec2H8F4mKiq7dC3EW8aCaw24WCSV2Fsz5", 
+"coldkey": "5CXiauzNqqMY4Q4UwoeFdYXryzL3Lrn6KAc3QQrU528XDFXE", "identity": "~"}, {"uid": 127, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5H44TwUM26PbTpuakk6zzw7MdjBJzcgr9bW829X6b6Q1bVdi", "coldkey": "5Ei1zsbGu1sySKP8rwjuvmT1KygtaabbFLSyxXBCxNRc5otP", "identity": "~"}, {"uid": 128, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FvtpvbLtjnk9dEC2wS5UWQaejhknt6JBDux8wj2fQaWQR97", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC",
+"identity": "~"}, {"uid": 129, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5HDhErx8tTb2JgHxaUFZjZRRZ5SpHAvNdhCLnJxWeNLeejYh", "coldkey": "5CXiauzNqqMY4Q4UwoeFdYXryzL3Lrn6KAc3QQrU528XDFXE", "identity": "~"}, {"uid": 132, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HYvnfRsaZ2nJzp4jkeUoMMgt2nPeY22AQeMHu5xii3EL8ch", "coldkey": "5FW4NvKapSoPQbAP9fgHFCGPYmTv6unsT8VhyCnyeMNbsHGu", "identity": 
+"~"}, {"uid": 133, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GCE1zjoCF8fma3iQ5Xe8k2fPb4gVGHgvSTiGE38YpXNDVWi", 
+"coldkey": "5FRM9Zv6UM4rw5DKRWBJ635h8j5FMsFK9k91B78XdYxFoYsM", "identity": "~"}, {"uid": 135, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5HQJ78SChbGziPDNCfKXHt3EXvfFU73oZ45sGp7raMwvsFyf", "coldkey": "5Hg7f4AfMcXBi2jZwvE7jm3m8JtfuqFgnVzpLKfFXWQPhSrx", "identity": "~"}, {"uid": 136, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5EbjFQMJTpcUpyoK2JbCKwnbpdca23um5ox4FPbnmRNimjXK", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC",
+"identity": "~"}, {"uid": 137, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5Fs4YU3w5JYSD3CRTQPsqw2FvKu2jWdCMKRFKP9t3eusc54p", "coldkey": "5Hg7f4AfMcXBi2jZwvE7jm3m8JtfuqFgnVzpLKfFXWQPhSrx", "identity": "~"}, {"uid": 139, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FLYBJeg6wg8JkAxC6VodjGkZ2DcLHnRo9B96WSEGm2Nnfm6", "coldkey": "5HR5C6EEnwcEiEzZpYjiXhkwrds7szoYeJG9iveomT9DwCEy", "identity": 
+"~"}, {"uid": 141, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5ECanDUARiNjkQhnGrzUarQ7Fv1YCL3EWcydiwF93Xya1qwb", 
+"coldkey": "5FKXANrirVp5ByxYhKtxovZuh66qwh8GyN1PuhwnCgcwk4CG", "identity": "~"}, {"uid": 142, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5GVz1sYcQGS9bXdWsbNhrs1x8TmvJPmHPYTAtT4JEghpVLMy", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 143, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GBXQaKYmwChJ6FgajYDeHnuZwsE8fCpEhibiaVR4zq2hmgw", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC",
+"identity": "~"}, {"uid": 144, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5ES6fyJ79G3v9w9cY1GYdxNJw2qCKxzRFMpKWW8FY7rBqrsZ", "coldkey": "5FkP5NH4d1g7b7CUmos87xGVuJ2r8DhMN8UXkKQC5MhYbKoh", "identity": "~"}, {"uid": 145, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Cw8SCP2TYkNfCmVrV6XmeMPfbS6uuffqdCvvwC4NzTXx1ob", "coldkey": "5HpPnhaFtMMHVCkGWdNn4T8wvu9qgpt5qWBvLaLA6jrtFwW4", "identity": 
+"~"}, {"uid": 146, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Dkxh5cvotGZwGSR1k2pUv2X1mvDouhuqDEaeyCWNXdNskdy", 
+"coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 147, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5Hh6VgirvLrK1ParbB7VxmedRqQoW3NbncMyornYf1eTaRVH", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 148, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5D2dTwYHm3bv34RxKBaWuk9bum6vxH1puWokN8WbsgiPmMpM", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC",
+"identity": "~"}, {"uid": 149, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5GEawSEwCqSaBymAC7WFMan2ryi7P8RSQJsF56E75uFd59pc", "coldkey": "5E2fVqiWDVxTQNKg1E95q2TGNEqzgfZ62mkG9i4Tow394h7o", "identity": "~"}, {"uid": 150, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Hg14PWyEhTAChoV2Qbxre4Mt95QSvLfe2mA1x3ThKELNvsm", "coldkey": "5GYrRs1msXAC2muwSkoNYPX9y7vtUKfqMAw1ZCtGPJLp2c7X", "identity": 
+"~"}, {"uid": 152, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Cz6UUGc8vTt4UiQWNLjzBBH3dDxue548EDzZygaN45YYEhv", 
+"coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 153, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5FEzfRTakturySgyQZAaGS8uHmExSNvyffZc6qMFtMw3LHt3", "coldkey": "5EsZo6w3wwzwJspbjK8LWyP8xcZpk34ZXFcDTvMdFJawn4kj", "identity": "~"}, {"uid": 154, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5H71hoE9rSNxW9TvsyWRqAqK119FLBVomEC6bZypC8YW4978", "coldkey": "5FAFd68RSBVtPeppTbjMsaFrs6NeJFck8GcjXfqwrt8kXLmn",
+"identity": "~"}, {"uid": 155, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5GC7VzjFpiY9ZxyFsB6BDSG8ftJEFFDBWixgPrHUD1LZ4yMg", "coldkey": "5G3jr2kDtHuNdRe2rhMWZX9uvoxXTiNNrjgdQug4i2c11NZD", "identity": "~"}, {"uid": 156, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CCoRR9DXh1zFh4GrrQ1hqh7WiagM3HBe2Gnr2kx5978cZ54", "coldkey": "5FLo4bdegStazetfWjWFAT4WDwZHeV7EnWggTv8TEiXi17FQ", "identity": 
+"~"}, {"uid": 157, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5ChwyUevRMNVTgDtCRAnHhbh4Adqi3mLG786rGkmCfh4n4rh", 
+"coldkey": "5FWGtLeVbQ9tUjUe9Yki9PTRYheCh4qLbXUNYhpVByMgiGXZ", "identity": "~"}, {"uid": 158, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5Hh1JpwxpfJ1MURA8dZ5UPJRMnNESGhuGrernvFkZyoCj2Rj", "coldkey": "5HeWJpESZ5VDZiGF2XEW8CYpPWt7teoLSWsoysrZ9EUGNoJo", "identity": "~"}, {"uid": 161, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FqBeDX14kY9pKgZF8iqqD7ddyLV4W6nf89xCjDtzeDp1r1C", "coldkey": "5HgLC9GwsUCTXzed8qaA7CrnRZpVVoYvox3cSk7etHWnY9mM",
+"identity": "~"}, {"uid": 162, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5FyTh9ra8ueGAYRkW9HqchCrwxnxpKQQj2ex6C3VF6YaXm8o", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 163, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DPFSpZ9dnEv2n4piwrwZ6PER55W8yBZJoDf56RKyvXCsnxE", "coldkey": "5FkP5NH4d1g7b7CUmos87xGVuJ2r8DhMN8UXkKQC5MhYbKoh", "identity": 
+"~"}, {"uid": 164, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FR9jR5CByTL91iLsDSivkYsseGnLHhFajgzpoJETT9BS7zk", 
+"coldkey": "5FTU4ZdBZ5CCGneoz4U88RakgccSMdeQPoHXK5r12KoeFGgr", "identity": "~"}, {"uid": 165, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5G8xgZVrbDfktTP53F2y4c16DKr6kE7JwfdVX79GLBjFgwMd", "coldkey": "5FQx4JJCsJoxjrsVjqUCb4KbaWtaa7RpiiVBahZCyTQrJB16", "identity": "~"}, {"uid": 167, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FvZFzYB6bYdqsQYecDrvgbfHJTxDDF3tKptMXeTfxUSBEgj", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC",
+"identity": "~"}, {"uid": 168, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5EoGta3m2WBGPqK5KpTmTaoEEzN7cf8qdF1J7LFYx25PugnZ", "coldkey": "5CMcCZrgv39ymunFposjbtEGQeC7XHRtR5gZD7qLpCmwUtBb", "identity": "~"}, {"uid": 170, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GZYGL5ggGj4hGJBULkoZk6eEJbz38Yh6MKiCjQGcdksp6D6", "coldkey": "5EHkLGqZYU5jv34bLfAN3XYcEgMoxvqDwV2vUPuXinHWt9uC", "identity": 
+"~"}, {"uid": 171, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DLjcenn8Mwk19UPsquft1sG7nMnhk48aifncSigbeeBZv9U", 
+"coldkey": "5FRUQK1LvTjKtfRgR22CHnSgViogVcHEhTXSM47tBgaCDKqC", "identity": "~"}, {"uid": 172, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5CfFArm3x7K8xYaEYyR4z72Cac1Tr2FB9eari38N6JJb83Qv", "coldkey": "5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~"}, {"uid": 173, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DkShRMzfgfe6zDbSVVRcT85bnAhNDJWWRwqrQmR8f14A9ob", "coldkey": "5D54K4NQr61PHJRmZw2TpgPRhsiAHiQi1NBwgyF6uRSciyms",
+"identity": "~"}, {"uid": 175, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5GboyCPV3J3YvFtgJhgBdaDvnJ6iNPajaj96pPpeTZ81imG7", "coldkey": "5DJ2Gw78329xotYLDGUW7HDqsgNo7Ms9dHdHMj1LFDR8rGaP", "identity": "veniron"}, {"uid": 178, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FntTRYkYR3CLtDeVWk4N4FZYosZD4Q61FWK8FfDgRtu8D5E", "coldkey": "5EsZo6w3wwzwJspbjK8LWyP8xcZpk34ZXFcDTvMdFJawn4kj",
+"identity": "~"}, {"uid": 179, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5GHXTs5nfb62mCR9mpsq6AkRmYELk8if9HFtAazpVAhASmai", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 180, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FEVvma1zDUtczRUCVMPDcbbTvF98Zhx6cQ3GAMdF451EK6w", "coldkey": "5HGiisxhF8fgFBg9b35UMKVRzbd4oMLd7CzdmjcisnwqJCBY", "identity": 
+"~"}, {"uid": 181, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5H43o5dtwxQgcMXAuTajbvbVRuackWni2muc93pQivwYTNEa", 
+"coldkey": "5EHLJifGmcFfmHEwpApuhs5Jdwqxe1nVn44kCdsC14fBY5Xt", "identity": "~"}, {"uid": 183, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5EA4UxGR2sLmkFoRsW6W869mAmZJfh3UWia3szjxN2Ay57ip", "coldkey": "5GiuePhRoVadVd43VG7Ux3CvHRhYV3HyBR3TGvhcRko16w2w", "identity": "~"}, {"uid": 184, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5EZzgyPVhgndQTxSqy4BqiWCr33MoqoeGGfndiNbZvUgDA84", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe",
+"identity": "~"}, {"uid": 186, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5FBrao2SfByUmWGCFEWCQFneE81WYuV4G4U7useh7VrEbQEP", "coldkey": "5DyvTZFqHEEgrv9mCUm7FamYwZTsspQ75GYxLjHcJZYTtbLX", "identity": "~"}, {"uid": 187, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5H49HvziAN2MBn9PshiDjGvBJAVVv8tZbJdgpr13aMDVd1aX", "coldkey": "5FnAQacZXf3ZdREPVSFcbBmDhZjXokPNg7FTcBJfn5H5SiFh", "identity": 
+"~"}, {"uid": 188, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DLUBYXaC6EuCqq76q8ksYyTvyMbSo7yHp2p5HDoVQxzmDMo", 
+"coldkey": "5DAjZs3aaHLj3LaqyszUzxGZ5JN6hv5yn17SxEDXssSzhNZT", "identity": "~"}, {"uid": 190, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5ESCbYibGPRoBDe3QcQ3Tinmy1hDRAnDn1yxoma5QWEc3hgQ", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 192, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Eo8wnMsKdpPXAoGvAGdP3uB8LJ1CYT8aVvf3kGWje4uo4dm", "coldkey": "5FbLUREbGkzHRogG2DsH4Jqhdg8nraxUSPVmTe7qe56KwCrg",
+"identity": "~"}, {"uid": 195, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5HHBhU88ttniDwXay7eFX5F1EhfqsdR2bch89xw8aJjugwKW", "coldkey": "5HiWGQSRZ64WQhaaiCKPav3NXpdUB5UPKn41GVmL9qYtaizh", "identity": "~"}, {"uid": 196, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5ENvNv7aFV5CLczsBR6FCYGgRXd8j81hHdUZ9kgY26Jj9kL2", "coldkey": "5HBQQsSHFaJzUoasZcc7S9XfyLgyD9T42gRCgsHThg6egddh", "identity": 
+"Xvirusman"}, {"uid": 201, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5EAEW7vusdiptM3vA8FE76XkGb3ZG5Z4uUvZJp3ScNFDn3hF", 
+"coldkey": "5CDNZ7jtXycSRXpzQ3CJFg6JKXUgnU1SezWxh6fChVYwjdZX", "identity": "~"}, {"uid": 203, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5DwUPW5U3vvhhVtNKL5tLdKqXJ2zeoH1ej3RyTk6bngnbUe9", "coldkey": "5FkP5NH4d1g7b7CUmos87xGVuJ2r8DhMN8UXkKQC5MhYbKoh", "identity": "~"}, {"uid": 206, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5DcbbaxVLNc4NhhTyF2FRaFRgsrbyUjJDBSm8kzKxEyhPdbX", "coldkey": "5CkKGLBAS7vVghiENBQ7L32jAnGnvfGrXQRFe23B9XTDL528",
+"identity": "TAO-Investments"}, {"uid": 207, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5FHNw8GKSV6RRVKxRZeTmmLbuW8mb4PDHw8AAA8iHMSMyeNL", "coldkey": "5GCZ5ToxjYki6Jt1WV8vbNjTxM4X3qUq99R4ZgyByxTkwbwE", "identity": "~"}, {"uid": 208, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5EuwLDdbNfre8t6jdQN1PRg6V3XdH8k3a7NrQ8wmrExjCsne", "coldkey": "5EvRUR7h6LRp2B4SY7Yw2wHpLWTtEPZBeRpN4N7uQkFR3Rnz", "identity": 
+"~"}, {"uid": 209, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CnoDcx7hR3wJuZx2GhRajpJJFqcffc9ctUNFmt9bhsnyVj7", 
+"coldkey": "5HZ17FswE9RmTPtEtyrbPpUCbqmHyUYXyRAixXZBAk5RSPcK", "identity": "~"}, {"uid": 215, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5C854LKXTGncgEzi7XJ1y8bH951rR9zZ9hEoF5LFMLLtKYWw", "coldkey": "5GP4F8XNVdzwKWA7btHYqGnDRnhyzrfrbedupwVuJLk16pwg", "identity": "~"}, {"uid": 216, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5CcE7ZQnKAEGupvGMB7WQpmr1WfhgPWpE2cvjkFQ6FSKEjrU", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe",
+"identity": "~"}, {"uid": 217, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5Grius5wsPKQ6RNUC8vQjSYUSYZWaT4nG7pvCCCF42gspUax", "coldkey": "5Hg7f4AfMcXBi2jZwvE7jm3m8JtfuqFgnVzpLKfFXWQPhSrx", "identity": "~"}, {"uid": 224, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Ev4QeFroD9wMPZgJi5vDurqiKBwz7cRJdZJUxWSFiAsFQTg", "coldkey": "5ELPizokKvhweAdonW1EBYLbcPhPa13icFREnoG911RvkTSn", "identity": 
+"~"}, {"uid": 229, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5H5qxZpDr8iVhbhTtTCm3wh9dyiRpVSSD9WkMnjJvFB5CsnC", 
+"coldkey": "5CFxpZcKKUgGMdX6n5pR2Csc5Jvb1WueoFDVftmny15yr6DF", "identity": "~"}, {"uid": 233, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5CZufCod3iNNfuxhriTRoGUT6jQ249Uvf53dKv9mkHh78cdz", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe", "identity": "~"}, {"uid": 234, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5EX4PRh95oHAgZZyfHmc6vVqAFM5LLSicWi93vjQKWY3d7ox", "coldkey": "5H6X9HkhTjL8zQBKdUEnVwJH8ZTRyHYtQZqYaHhvwHW3VBh3",
+"identity": "~"}, {"uid": 235, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5EWSmWEDZ7poLK1PdufExCUcHi3r93kTB3JtofozU7dga68X", "coldkey": "5FW4NvKapSoPQbAP9fgHFCGPYmTv6unsT8VhyCnyeMNbsHGu", "identity": "~"}, {"uid": 236, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GgLExCYpvHc4rzR9wLRBqdkZ4F2y4ccx8frsjqBB96So8HV", "coldkey": "5HopiJohWuLfw5mUe5kL7VLeZJbK33BanxPgV9W4jShQyLH4", "identity": 
+"~"}, {"uid": 237, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Hj2E5tMnQ8tV8ExwyeuMZSLRSLg5V37baZduc2CEwMMtZ4C", 
+"coldkey": "5FBrL26fDqvRf3PfBXQKuSgXDrzjSPGMKvtkMdcGRBYJVrQq", "identity": "~"}, {"uid": 240, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5FUgNFEu9CWqzTC2Mi5S7cw6C465H3Ec1ReyzRPwzCUHBbsU", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 241, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5FJ1FKJ9ppuhDG2kAm7oRAcKUyFKGM4jk4xeiUYDShYECUxY", "coldkey": "5CyYGrb413WvwzdddtTWwPZeVDB8UvfL4cnJCuyi3VMY6Qkg",
+"identity": "~"}, {"uid": 242, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5Gbqx7jkUzK3wYUkb9Ds7noz6Ks8in26zRRFv5fwEAN46sSx", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 245, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5GErCsixqzBwUENGdZi1tDQwLKPAJisCttoaHKzVHD5fA39N", "coldkey": "5GTYwdyGjs36SA2wyX7otnxFferNckXzBzfkBWegiQeHvd3h", "identity": 
+"~"}, {"uid": 247, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Cnk3YqZ3oYmxpC8yvSYScc2M26fvo3JMEdtDKTb98wbDW9Z", 
+"coldkey": "5H6LxntiomAU1qu6hcW2favDACLChi6LHuNUHzpYH6ktdj13", "identity": "~"}, {"uid": 248, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 
+0.0, "hotkey": "5EUT5rm4aZBvaVZA1RiHCfSDfNLJmDJYJRQERtpfzeio2ZMW", "coldkey": "5G6WaLifYNxtJ5KaSL2wmSQHEWJ6PRcSUsEw1dx1T2UiGtaj", "identity": "~"}, {"uid": 250, "stake": 0.0, "alpha_stake": 0.0, 
+"tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5F75fio9SDBiiaiWGn9qiUsZosjenKj3pwZjZU7u4m7ZRR5z", "coldkey": "5FTx5ykprbrUfXbZPxUMvQTcspBmdddeig3QG1vckgeHzcXe",
+"identity": "~"}, {"uid": 251, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": 
+"5Ew2wfxdWMqMc3ma32bybyV5etKVvd9J4WvTHELSzZKUdd9c", "coldkey": "5CMAquGL7dcp3Z8mdbHPyeZSaSEfNv6xRRks4YQbJuDtDZBC", "identity": "~"}, {"uid": 252, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 
+0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5HBhWGPCjKaSY6q9uTL1zRKjpVJKH8JcJyWvJoy2hDAUU9Jy", "coldkey": "5EyEPxw6WgPgje4ZbcSAJoy7WZLeaSbRbR21aY9tpg451LNa", "identity": 
+"~"}, {"uid": 255, "stake": 0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, "emissions": 0.0, "hotkey": "5Deu6yhXJELhJw4G2Pbd4aQngVN3FeWwn4EnFiKKzmCVWqiV", 
+"coldkey": "5Dy4X43As577PkJkAXNmRow3vADbruSuvSAiYqqMa12uVJsf", "identity": "~"}]}
